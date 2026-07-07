@@ -1,0 +1,73 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Statistical inverse problems and regularisation}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Efficiency and minimax lower bounds}{2}{section.1.2}%
+\contentsline {paragraph}{Efficiency.}{2}{section*.3}%
+\contentsline {paragraph}{Minimax lower bounds.}{3}{section*.4}%
+\contentsline {section}{\numberline {1.3}Uncertainty quantification and BvM theorem}{3}{section.1.3}%
+\contentsline {paragraph}{Building intuition: UQ in the parametric world.}{4}{section*.5}%
+\contentsline {paragraph}{Why UQ is harder in nonparametric inverse problems.}{5}{section*.7}%
+\contentsline {section}{\numberline {1.4}How is this thesis built?}{6}{section.1.4}%
+\contentsline {paragraph}{In an ideal world: a programme for efficiency and UQ.}{7}{section*.8}%
+\contentsline {paragraph}{Scope of this thesis.}{9}{section*.9}%
+\contentsline {chapter}{\numberline {2}Wicksell's problem: the frequentist nonparametric approach}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Adaptive and Efficient Isotonic Estimation}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Asymptotics of the Isotonic Inverse Estimator}{15}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Local Asymptotic Minimax Theorem}{24}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Conclusion}{30}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Efficient estimation under local constraint}{30}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Construction of the informed estimators}{31}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Asymptotic distributions of the informed estimators}{33}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Local asymptotic minimax risk under constraint}{34}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Simulation study}{36}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Conclusion}{38}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}Appendix}{39}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Proofs of complemental statements for Theorem \ref {thm: normality Holder}.}{39}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Proofs complemental statements for the LAN expansion. }{51}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3} Proofs of Section \ref {sec: section 2}.}{57}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Efficiency Theory Constrained Space}{71}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Bibliographic remarks}{74}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Wicksell's problem: the Bayesian nonparametric approach}{77}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Semiparametric BvM via Isotonized Posterior}{77}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{77}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Main results}{80}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Simulation Study and Discussion about UQ}{87}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Conclusion}{92}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Posterior Contraction via Hierarchical Modelling}{93}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{93}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Main results}{93}{subsection.3.2.2}%
+\contentsline {subsubsection}{Consistency}{94}{section*.180}%
+\contentsline {subsubsection}{Contraction rates}{95}{section*.181}%
+\contentsline {subsection}{\numberline {3.2.3}Simulation study}{95}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Conclusion}{98}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Appendix}{99}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Proofs of complemental statements for Semiparametric BvM}{99}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Proofs of complemental statements for Hierarchical Modelling}{115}{subsection.3.3.2}%
+\contentsline {subsubsection}{Proofs of the consistency results}{115}{section*.213}%
+\contentsline {subsubsection}{Proofs of the contraction rates results}{119}{section*.214}%
+\contentsline {section}{\numberline {3.4}Bibliographic remarks}{135}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Deconvolution: semiparametric UQ via isotonized posterior}{139}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{139}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Main results}{142}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Simulation study}{148}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Conclusion}{153}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Appendix}{154}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Complementary results}{154}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Review of the integral equation}{163}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Bibliographic Remarks}{165}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Proximal inference based on mixtures of linear models}{167}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{167}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Mixture of linear models}{169}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Contraction}{178}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1} \textit {Priors}}{178}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}\textit {Results}}{179}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Conclusion}{182}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Appendix}{182}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Definitions of function spaces and topologies used in proofs}{182}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Proofs}{184}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Consistency by entropy}{199}{subsection.5.5.3}%
+\contentsline {chapter}{Summary}{201}{chapter*.305}%
+\contentsline {chapter}{Samenvatting}{203}{chapter*.306}%
+\contentsline {chapter}{Curriculum Vit\ae }{205}{chapter*.307}%
+\contentsline {chapter}{List of Publications}{207}{chapter*.308}%

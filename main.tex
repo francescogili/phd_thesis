@@ -1,0 +1,263 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Simple Book Template with txfonts
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt,twoside]{book}
+\usepackage[b5paper,lmargin=23mm,rmargin=23mm,tmargin=25mm,bmargin=25mm,heightrounded]{geometry}
+%\usepackage[paperheight=24cm,paperwidth=17cm,lmargin=13mm,rmargin=13mm,tmargin=15mm,bmargin=15mm, heightrounded]{geometry}
+
+% --- FONT & ENCODING ---
+% Use txfonts for Times text and matching math
+% Use T1 encoding for better font handling & copy-paste
+\usepackage[T1]{fontenc}
+% Standard input encoding
+\usepackage[utf8]{inputenc}
+
+
+
+% --- BASIC MATH SUPPORT ---
+% amsmath provides useful math environments and commands
+\usepackage{amsthm}
+\usepackage{amsmath} % Load BEFORE txfonts
+\usepackage{txfonts}
+\usepackage{amssymb} % Load before txfonts if used
+% Note: txfonts provides many math symbols, so amssymb might not be
+% necessary or could potentially cause minor conflicts. Load if needed.
+% \usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{todonotes}
+\usepackage[english]{babel}
+% --- BASIC BOOK STRUCTURE PACKAGES (Optional but often useful) ---
+\usepackage{graphicx} % For including images
+\usepackage{hyperref} % For clickable links (load towards the end)
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+% Can be removed after putting your text content
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage{amsmath}
+\usepackage{color, graphicx}
+\usepackage{hyperref}
+\usepackage{verbatim}
+\usepackage{color,soul}
+%\usepackage{subfigure}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{siunitx}
+\usepackage{amssymb}
+\usepackage{comment}
+\usepackage{graphicx}
+\usepackage{marvosym}
+%\usepackage{subcaption}
+\usepackage{wrapfig}
+
+\usepackage[toc,page]{appendix}
+\usepackage{bbm}
+\usepackage{graphicx}
+%\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsbsy}
+\usepackage[makeroom]{cancel}
+\usepackage{lipsum}
+\usepackage{multicol}
+\usepackage{algorithm,algorithmic}
+\usepackage{pifont}
+\usepackage{bbm}
+\usepackage{bm}
+\usepackage{dsfont}
+\usepackage{bigints}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{scalerel}
+\usepackage{accents}
+%\usepackage{subfig}
+%\usepackage{subcaption}
+\usepackage{mwe}
+\usepackage{graphicx,wrapfig,lipsum}
+%\usepackage{floatrow}
+%\usepackage{subcaption}
+\usepackage{mathtools}
+\usepackage{mathrsfs}
+\usetikzlibrary{mindmap,backgrounds}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{pdfpages}
+
+\allowdisplaybreaks
+
+%\RequirePackage[authoryear]{natbib}%% uncomment this for author-year citations
+%\RequirePackage[colorlinks,citecolor=blue,urlcolor=blue]{hyperref}%% uncomment this for coloring bibliography citations and linked URLs
+
+
+
+% Typography
+\usepackage{enumitem}
+\usepackage{letltxmacro}
+\usepackage{nameref,hyperref}
+\usepackage[capitalize]{cleveref}
+
+\newlist{thmlist}{enumerate}{1}
+\setlist[thmlist]{label=\alph{thmlisti}., ref=\thetheorem.\alph{thmlisti}.,noitemsep}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% Uncomment next line to change            %%
+%% the type of equation numbering           %%
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\numberwithin{equation}{section}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% For Axiom, Claim, Corollary, Hypothesis, %%
+%% Lemma, Theorem, Proposition              %%
+%% use \theoremstyle{plain}                 %%
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\theoremstyle{plain}
+%\newtheorem{???}{???}
+%\newtheorem*{???}{???}
+%\newtheorem{???}{???}[???]
+%\newtheorem{???}[???]{???}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% For Assumption, Definition, Example,     %%
+%% Notation, Property, Remark, Fact         %%
+%% use \theoremstyle{remark}                %%
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\theoremstyle{remark}
+%\newtheorem{???}{???}
+%\newtheorem*{???}{???}
+%\newtheorem{???}{???}[???]
+%\newtheorem{???}[???]{???}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Please put your definitions here:        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\pb}[0]{\mathrm{P}}
+\newcommand{\ex}[0]{\mathrm{E}}
+\newcommand{\ind}[0]{\mathbf{1}}
+\newcommand{\ubar}[1]{\underaccent{\bar}{#1}}
+\newcommand{\indep}{\perp \!\!\! \perp}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\cosec}{cosec}
+\newlength\myindent
+\setlength\myindent{2em}
+\newcommand\bindent{%
+  \begingroup
+  \setlength{\itemindent}{\myindent}
+  \addtolength{\algorithmicindent}{\myindent}
+}
+\newcommand\eindent{\endgroup}
+\newcommand{\vardbtilde}[1]{\tilde{\raisebox{0pt}[0.85\height]{$\tilde{#1}$}}}
+\newcommand{\dbtilde}[1]{\accentset{\approx}{#1}}
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+\newcommand\norm[1]{\left\lVert#1\right\rVert}
+\newcommand\ddfrac[2]{\frac{\displaystyle #1}{\displaystyle #2}}
+\setlength{\bibsep}{0.0pt} % remove lines between refererences
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{proposition}{Proposition}[section]
+\theoremstyle{remark}
+\newtheorem{example}{Example}[section]
+\newtheorem{condition}{Condition}
+\newtheorem*{assumption}{Assumption}
+\newtheorem{remark}{Remark}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem*{definition*}{Definition}
+
+\Crefname{theorem}{Theorem}{Theorems}
+
+% --- DOCUMENT METADATA (for \maketitle) ---
+\title{Bayesian and Frequentist Perspectives in Three Statistical Inverse Problems}
+%\author{Your Name}
+%\date{\today} % Or specify a date, e.g., \date{October 2023}
+% Define a custom dedication command
+
+
+% --- BEGIN DOCUMENT ---
+\begin{document}
+
+% --- TITLE PAGE ---
+% Creates a simple, standard title page
+%\maketitle
+
+
+% --- FRONT MATTER ---
+% This section uses Roman numerals for page numbers
+% Chapters are not numbered here
+\frontmatter
+
+
+\include{title/title}
+% Add Table of Contents
+\tableofcontents
+
+% You could add Preface, Acknowledgements etc. here as unnumbered chapters
+% \chapter*{Preface}
+% ...
+
+
+
+% --- MAIN MATTER ---
+% This section uses Arabic numerals for page numbers
+% Chapters are numbered starting from 1
+\mainmatter
+
+
+\include{chapter1/chapter1}
+
+\include{chapter2/chapter2}
+
+\include{chapter3/chapter3}
+
+\include{chapter4/chapter4}
+\include{chapter5/chapter5}
+
+
+\backmatter
+
+
+\include{summary/summary}
+%\include{acknowledgements/acknowledgements}
+\include{cv/cv}
+\include{publications/publications}
+
+% Add more chapters, sections, content here...
+% \chapter{Methodology}
+% \label{chap:methods}
+% ...
+
+
+% --- BACK MATTER (Optional) ---
+% Appendices, Bibliography, Index go here
+% \backmatter
+
+% \appendix
+% \chapter{Derivations}
+% \label{app:derivations}
+% ...
+
+% Example for Bibliography (using BibTeX)
+% \bibliographystyle{plain} % Or another style
+% \bibliography{your_references_file} % Your .bib file name without extension
+\bibliographystyle{plainnat}
+\bibliography{mybiblio}
+
+% Example for Index (Requires \makeindex in the preamble)
+% \printindex
+
+
+% --- END DOCUMENT ---
+\end{document}

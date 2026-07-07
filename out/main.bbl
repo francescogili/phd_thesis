@@ -1,0 +1,1023 @@
+\begin{thebibliography}{114}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[\textsc{Adler, R.J.}(1990)]{201}
+\textsc{Adler, R.J.}
+\newblock \emph{{An Introduction to Continuity, Extrema, and Related Topics for
+  General {Gaussian} Processes}}, volume~12 of \emph{Lecture Notes-Monographs,
+  Institute of Mathematical Statistics}.
+\newblock Institute of Mathematical Statistics, 1990.
+\newblock URL \url{https://www.jstor.org/stable/pdf/4355563.pdf}.
+\newblock \url{https://www.jstor.org/stable/pdf/4355563.pdf}.
+
+\bibitem[\textsc{Alonso, J.} et~al.(2007)\textsc{Alonso, J.}, \textsc{Matio,
+  M.}, and \textsc{Sen, B.}]{33}
+\textsc{Alonso, J.}, \textsc{Matio, M.}, and \textsc{Sen, B.}
+\newblock {U}ncloaking {G}lobular {C}lusters of the {I}nner {G}alaxy.
+\newblock \emph{Proceedings of the International Astronomical Union},
+  3:\penalty0 359--360, 2007.
+\newblock \doi{10.1088/0004-6256/143/3/70}.
+\newblock URL \url{https://doi.org/10.1088/0004-6256/143/3/70}.
+\newblock \url{https://doi.org/10.1088/0004-6256/143/3/70}.
+
+\bibitem[\textsc{Antoniak, C.}(1974)]{21}
+\textsc{Antoniak, C.}
+\newblock {M}ixtures of {Dirichlet} {Processes} with {Applications} to
+  {Bayesian} {Nonparametric} {Problems}.
+\newblock \emph{The Annals of Statistic}, 2\penalty0 (6):\penalty0 1152--1174,
+  1974.
+\newblock \doi{10.1214/aos/1176342871}.
+\newblock URL \url{https://doi.org/10.1214/aos/1176342871}.
+\newblock \url{https://doi.org/10.1214/aos/1176342871}.
+
+\bibitem[\textsc{Ayer, M.} et~al.(1955)\textsc{Ayer, M.}, \textsc{Brunk, H.
+  D.}, \textsc{Ewing, G. M.}, \textsc{Reid, W. T.}, and \textsc{Silverman,
+  E.}]{61}
+\textsc{Ayer, M.}, \textsc{Brunk, H. D.}, \textsc{Ewing, G. M.}, \textsc{Reid,
+  W. T.}, and \textsc{Silverman, E.}
+\newblock {An Empirical Distribution Function for Sampling with Incomplete
+  Information}.
+\newblock \emph{The Annals of Mathematical Statistics}, 26\penalty0
+  (4):\penalty0 641--647, 1955.
+\newblock URL \url{http://www.jstor.org/stable/2236377}.
+\newblock \url{http://www.jstor.org/stable/2236377}.
+
+\bibitem[\textsc{Bhaumik, P.} and \textsc{Ghosal, S.}(2015{\natexlab{a}})]{57}
+\textsc{Bhaumik, P.} and \textsc{Ghosal, S.}
+\newblock {B}ayesian {T}wo-{S}tep {E}stimation in {D}ifferential {E}quation
+  {M}odels.
+\newblock \emph{Electronic Journal of Statistics}, 9\penalty0 (2):\penalty0
+  3124--3154, 2015{\natexlab{a}}.
+\newblock \doi{10.1214/15-EJS1099}.
+\newblock URL \url{https://doi.org/10.1214/15-EJS1099}.
+\newblock \url{https://doi.org/10.1214/15-EJS1099}.
+
+\bibitem[\textsc{Bhaumik, P.} and \textsc{Ghosal, S.}(2015{\natexlab{b}})]{58}
+\textsc{Bhaumik, P.} and \textsc{Ghosal, S.}
+\newblock {E}fficient {Bayesian} estimation and uncertainty quantification in
+  ordinary differential equation models.
+\newblock \emph{Bernoulli}, 23:\penalty0 3537–3570, 2015{\natexlab{b}}.
+\newblock \doi{10.3150/16-BEJ856}.
+\newblock URL \url{https://doi.org/10.3150/16-BEJ856}.
+\newblock \url{https://doi.org/10.3150/16-BEJ856}.
+
+\bibitem[\textsc{Bolthausen, E.} et~al.(1999)\textsc{Bolthausen, E.},
+  \textsc{van der Vaart, A.}, and \textsc{Perkins, E.}]{13}
+\textsc{Bolthausen, E.}, \textsc{van der Vaart, A.}, and \textsc{Perkins, E.}
+\newblock \emph{{L}ectures on {Probability} {Theory} and {Statistics}, {Ecole}
+  d'Et{\'e} de {Probabilit{\'e}s} de {Saint-Flour} {XXIX} - {Part} {III}. {Aad}
+  van der Vaart}.
+\newblock Springer, New York, 1999.
+
+\bibitem[\textsc{Bracewell, R. N.} and \textsc{Roberts, J. A.}(1954)]{107}
+\textsc{Bracewell, R. N.} and \textsc{Roberts, J. A.}
+\newblock {A}erial {S}moothing in {R}adio {A}stronomy.
+\newblock \emph{Australian Journal of Physics}, 7\penalty0 (4):\penalty0
+  615--640, 1954.
+\newblock \doi{10.1071/PH540615}.
+\newblock URL \url{https://doi.org/10.1071/PH540615}.
+\newblock \url{https://doi.org/10.1071/PH540615}.
+
+\bibitem[\textsc{Butucea, C.}(2004)]{86}
+\textsc{Butucea, C.}
+\newblock {Deconvolution of supersmooth densities with smooth noise}.
+\newblock \emph{Can. J. Stat.}, 32:\penalty0 181--192, 2004.
+\newblock \doi{10.2307/3315941}.
+\newblock URL \url{https://doi.org/10.2307/3315941}.
+\newblock \url{https://doi.org/10.2307/3315941}.
+
+\bibitem[\textsc{Butucea, C.} and \textsc{Tsybakov, A.
+  B.}(2008{\natexlab{a}})]{87}
+\textsc{Butucea, C.} and \textsc{Tsybakov, A. B.}
+\newblock {Sharp optimality in density deconvolution with dominating bias I}.
+\newblock \emph{Theory Probab. Appl.}, 52:\penalty0 24--39, 2008{\natexlab{a}}.
+\newblock \doi{10.1137/S0040585X97982840}.
+\newblock URL \url{https://doi.org/10.1137/S0040585X97982840}.
+\newblock \url{https://doi.org/10.1137/S0040585X97982840}.
+
+\bibitem[\textsc{Butucea, C.} and \textsc{Tsybakov, A.
+  B.}(2008{\natexlab{b}})]{88}
+\textsc{Butucea, C.} and \textsc{Tsybakov, A. B.}
+\newblock {Sharp optimality in density deconvolution with dominating bias II}.
+\newblock \emph{Theory Probab. Appl.}, 52:\penalty0 237--249,
+  2008{\natexlab{b}}.
+\newblock \doi{10.1137/S0040585X97982992}.
+\newblock URL \url{https://doi.org/10.1137/S0040585X97982992}.
+\newblock \url{https://doi.org/10.1137/S0040585X97982992}.
+
+\bibitem[\textsc{Carroll, R. J.} and \textsc{Hall, P.}(1988)]{81}
+\textsc{Carroll, R. J.} and \textsc{Hall, P.}
+\newblock {Optimal rates of convergence for deconvolving a density}.
+\newblock \emph{J. Am. Stat. Assoc.}, 83:\penalty0 1184--1186, 1988.
+\newblock \doi{10.2307/2290153}.
+\newblock URL \url{https://doi.org/10.2307/2290153}.
+\newblock \url{https://doi.org/10.2307/2290153}.
+
+\bibitem[\textsc{Castillo, I.} and \textsc{Nickl, R.}(2013)]{62}
+\textsc{Castillo, I.} and \textsc{Nickl, R.}
+\newblock {N}onparametric {Bernstein--von Mises} {Theorems} in {Gaussian}
+  {White} {Noise}.
+\newblock \emph{The Annals of Statistics}, 41\penalty0 (4):\penalty0
+  1999--2028, 2013.
+\newblock \doi{10.1214/13-AOS1133}.
+\newblock URL \url{https://doi.org/10.1214/13-AOS1133}.
+\newblock \url{https://doi.org/10.1214/13-AOS1133}.
+
+\bibitem[\textsc{Castillo, I.} and \textsc{Nickl, R.}(2014)]{35}
+\textsc{Castillo, I.} and \textsc{Nickl, R.}
+\newblock {O}n the {Bernstein-Von} {Mises} {P}henomenon for {N}onparametric
+  {B}ayes {P}rocedures.
+\newblock \emph{The Annals of Statistics}, 42\penalty0 (5):\penalty0
+  1941–1969, 2014.
+\newblock URL \url{http://www.jstor.org/stable/43556349}.
+\newblock \url{http://www.jstor.org/stable/43556349}.
+
+\bibitem[\textsc{Castillo, I.} and \textsc{Rousseau, J.}(2015)]{37}
+\textsc{Castillo, I.} and \textsc{Rousseau, J.}
+\newblock {A} {Bernstein–von} {M}ises {T}heorem for {S}mooth {F}unctionals in
+  {S}emiparametric {M}odels.
+\newblock \emph{The Annals of Statistics}, 43\penalty0 (6):\penalty0 2353 --
+  2383, 2015.
+\newblock \doi{10.1214/15-AOS1336}.
+\newblock URL \url{https://doi.org/10.1214/15-AOS1336}.
+\newblock \url{https://doi.org/10.1214/15-AOS1336}.
+
+\bibitem[\textsc{Chakraborty, M.} and \textsc{Ghosal, S.}(2021)]{54}
+\textsc{Chakraborty, M.} and \textsc{Ghosal, S.}
+\newblock {C}overage of {C}redible {I}ntervals in {N}onparametric {M}onotone
+  {R}egression.
+\newblock \emph{Annals of Statistics}, 49\penalty0 (2):\penalty0 1011--1028,
+  2021.
+\newblock \doi{10.1214/20-AOS1989}.
+\newblock URL \url{https://doi.org/10.1214/20-AOS1989}.
+\newblock \url{https://doi.org/10.1214/20-AOS1989}.
+
+\bibitem[\textsc{Chakraborty, M.} and \textsc{Ghosal, S.}(2022)]{60}
+\textsc{Chakraborty, M.} and \textsc{Ghosal, S.}
+\newblock {Rates and coverage for monotone densities using
+  projection-posterior}.
+\newblock \emph{Bernoulli}, 28\penalty0 (2):\penalty0 1093 -- 1119, 2022.
+\newblock \doi{10.3150/21-BEJ1379}.
+\newblock URL \url{https://doi.org/10.3150/21-BEJ1379}.
+\newblock \url{https://doi.org/10.3150/21-BEJ1379}.
+
+\bibitem[\textsc{Chan, K. C. G.} and \textsc{Qin, J.}(2016)]{18}
+\textsc{Chan, K. C. G.} and \textsc{Qin, J.}
+\newblock {N}onparametric {M}aximum {L}ikelihood {E}stimation for the
+  {M}ultisample {Wicksell} {C}orpuscle {P}roblem.
+\newblock \emph{Biometrika}, 103:\penalty0 273–286, 2016.
+\newblock \doi{10.1093/biomet/asw011}.
+\newblock URL \url{https://doi.org/10.1093/biomet/asw011}.
+\newblock \url{https://doi.org/10.1093/biomet/asw011}.
+
+\bibitem[\textsc{Comte, F.} et~al.(2006)\textsc{Comte, F.}, \textsc{Rozenholc,
+  Y.}, and \textsc{Taupin, M.-L.}]{91}
+\textsc{Comte, F.}, \textsc{Rozenholc, Y.}, and \textsc{Taupin, M.-L.}
+\newblock {Penalized contrast estimator for adaptive density deconvolution}.
+\newblock \emph{Can. J. Stat.}, 34:\penalty0 431--452, 2006.
+\newblock URL \url{https://www.jstor.org/stable/20445213}.
+\newblock \url{https://www.jstor.org/stable/20445213}.
+
+\bibitem[\textsc{Cui, Y.} et~al.(2023)\textsc{Cui, Y.}, \textsc{Pu, H.},
+  \textsc{Shi, X.}, \textsc{Miao, W.}, and \textsc{Tchetgen Tchetgen, E.}]{120}
+\textsc{Cui, Y.}, \textsc{Pu, H.}, \textsc{Shi, X.}, \textsc{Miao, W.}, and
+  \textsc{Tchetgen Tchetgen, E.}
+\newblock {Semiparametric Proximal Causal Inference}.
+\newblock \emph{Journal of the American Statistical Association}, 119\penalty0
+  (546):\penalty0 1348--1359, 2023.
+\newblock \doi{10.1080/01621459.2023.2191817}.
+\newblock URL \url{https://doi.org/10.1080/01621459.2023.2191817}.
+\newblock \url{https://doi.org/10.1080/01621459.2023.2191817}.
+
+\bibitem[\textsc{Cuzzi, J.} and \textsc{Olson, D.}(2017)]{49}
+\textsc{Cuzzi, J.} and \textsc{Olson, D.}
+\newblock {R}ecovering 3{D} {P}article {S}ize {D}istributions from 2{D}
+  {S}ections.
+\newblock \emph{Meteoritics \& Planetary Science}, 52\penalty0 (3):\penalty0
+  532--545, 2017.
+\newblock \doi{10.1111/maps.12812}.
+\newblock URL \url{https://doi.org/10.1111/maps.12812}.
+\newblock \url{https://doi.org/10.1111/maps.12812}.
+
+\bibitem[\textsc{Dattner, I.} and \textsc{Reiser, B.}(2013)]{96}
+\textsc{Dattner, I.} and \textsc{Reiser, B.}
+\newblock {Estimation of distribution functions in measurement error models}.
+\newblock \emph{J. Stat. Plann. Inference}, 143:\penalty0 479--493, 2013.
+\newblock \doi{10.1016/j.jspi.2012.09.004}.
+\newblock URL \url{https://doi.org/10.1016/j.jspi.2012.09.004}.
+\newblock \url{https://doi.org/10.1016/j.jspi.2012.09.004}.
+
+\bibitem[\textsc{Dattner, I.} et~al.(2011)\textsc{Dattner, I.},
+  \textsc{Goldenshluger, A.}, and \textsc{Juditsky, A.}]{95}
+\textsc{Dattner, I.}, \textsc{Goldenshluger, A.}, and \textsc{Juditsky, A.}
+\newblock {On deconvolution of distribution functions}.
+\newblock \emph{Ann. Statist.}, 39:\penalty0 2477--2501, 2011.
+\newblock \doi{10.1214/11-AOS907}.
+\newblock URL \url{https://doi.org/10.1214/11-AOS907}.
+\newblock \url{https://doi.org/10.1214/11-AOS907}.
+
+\bibitem[\textsc{Dattner, I.} et~al.(2016)\textsc{Dattner, I.},
+  \textsc{Rei{\ss}, M.}, and \textsc{Trabs, M.}]{97}
+\textsc{Dattner, I.}, \textsc{Rei{\ss}, M.}, and \textsc{Trabs, M.}
+\newblock {Adaptive quantile estimation in deconvolution with unknown error
+  distribution}.
+\newblock \emph{Bernoulli}, 22:\penalty0 143--192, 2016.
+\newblock \doi{10.3150/14-BEJ626}.
+\newblock URL \url{https://doi.org/10.3150/14-BEJ626}.
+\newblock \url{https://doi.org/10.3150/14-BEJ626}.
+
+\bibitem[\textsc{Delaigle, A.} and \textsc{Gijbels, I.}(2004)]{90}
+\textsc{Delaigle, A.} and \textsc{Gijbels, I.}
+\newblock {Bootstrap bandwidth selection in kernel density estimation from a
+  contaminated sample}.
+\newblock \emph{Ann. Inst. Statist. Math.}, 56:\penalty0 19--47, 2004.
+\newblock \doi{10.1007/BF02506823}.
+\newblock URL \url{https://doi.org/10.1007/BF02530523}.
+\newblock \url{ https://doi.org/10.1007/BF02530523}.
+
+\bibitem[\textsc{Deng, H.} et~al.(2021)\textsc{Deng, H.}, \textsc{Han, Q.}, and
+  \textsc{Zhang, C.}]{20}
+\textsc{Deng, H.}, \textsc{Han, Q.}, and \textsc{Zhang, C.}
+\newblock {C}onfidence {I}ntervals for {M}ultiple {I}sotonic {R}egression and
+  other {M}onotone {M}odels.
+\newblock \emph{The Annals of Statistics}, 49\penalty0 (4):\penalty0
+  2021–2052, 2021.
+\newblock \doi{10.1214/20-AOS2025}.
+\newblock URL \url{https://doi.org/10.1214/20-AOS2025}.
+\newblock \url{https://doi.org/10.1214/20-AOS2025}.
+
+\bibitem[\textsc{Diggle, P. J.} and \textsc{Hall, P.}(1993)]{101}
+\textsc{Diggle, P. J.} and \textsc{Hall, P.}
+\newblock {A Fourier Approach to Nonparametric Deconvolution of a Density
+  Estimate}.
+\newblock \emph{Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 55\penalty0 (2):\penalty0 523--531, 1993.
+\newblock \doi{10.2307/2346211}.
+\newblock URL \url{http://www.jstor.org/stable/2346211}.
+\newblock \url{http://www.jstor.org/stable/2346211}.
+
+\bibitem[\textsc{Durot, C.} and \textsc{Tocquet, A.-S.}(2003)]{66}
+\textsc{Durot, C.} and \textsc{Tocquet, A.-S.}
+\newblock {O}n the {D}istance between the {E}mpirical {P}rocess and its
+  {C}oncave {M}ajorant in a {M}onotone {R}egression {F}ramework.
+\newblock \emph{Annales de l'Institut Henri Poincar\'e (B) Probability and
+  Statistics}, 39\penalty0 (2):\penalty0 217--240, 2003.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0246020302000134}.
+\newblock \url{https://doi.org/10.1016/S0246-0203(02)00013-4}.
+
+\bibitem[\textsc{Durrett, R.}(2010)]{7}
+\textsc{Durrett, R.}
+\newblock \emph{{P}robability: {T}heory and {E}xamples}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem[\textsc{Efromovich, S.}(1997)]{85}
+\textsc{Efromovich, S.}
+\newblock {Density estimation for the case of supersmooth measurement errors}.
+\newblock \emph{J. Am. Stat. Assoc.}, 92:\penalty0 526--535, 1997.
+\newblock \doi{10.1080/01621459.1997.10474005}.
+\newblock URL \url{https://doi.org/10.1080/01621459.1997.10474005}.
+\newblock \url{https://doi.org/10.1080/01621459.1997.10474005}.
+
+\bibitem[\textsc{Efromovich, S.}(2010)]{45}
+\textsc{Efromovich, S.}
+\newblock {A} sharp minimax lower bound for the nonparametric estimation of
+  {Sobolev} densities of order $\frac{1}{2}$.
+\newblock \emph{Statistics and Probability Letters}, 80:\penalty0 77--81, 2010.
+\newblock \doi{10.1016/j.spl.2009.08.011}.
+\newblock URL \url{https://doi.org/10.1016/j.spl.2009.08.011}.
+\newblock \url{https://doi.org/10.1016/j.spl.2009.08.011}.
+
+\bibitem[\textsc{Fan, J.}(1991)]{84}
+\textsc{Fan, J.}
+\newblock {On the optimal rates of convergence for nonparametric deconvolution
+  problems}.
+\newblock \emph{The Annals of Statistics}, 19:\penalty0 1257--1272, 1991.
+\newblock \doi{10.1214/aos/1176348248}.
+\newblock URL \url{https://doi.org/10.1214/aos/1176348248}.
+\newblock \url{https://doi.org/10.1214/aos/1176348248}.
+
+\bibitem[\textsc{Ferguson, T. S.}(1974)]{59}
+\textsc{Ferguson, T. S.}
+\newblock {Prior Distributions on Spaces of Probability Measures}.
+\newblock \emph{The Annals of Statistics}, 2\penalty0 (4):\penalty0 615 -- 629,
+  1974.
+\newblock \doi{10.1214/aos/1176342752}.
+\newblock URL \url{https://doi.org/10.1214/aos/1176342752}.
+\newblock \url{https://doi.org/10.1214/aos/1176342752}.
+
+\bibitem[\textsc{Ferguson, T.S.}(1967)]{28}
+\textsc{Ferguson, T.S.}
+\newblock \emph{{M}athematical {S}tatistics: {A} {Decision} {Theoretic}
+  {Approach}}.
+\newblock Academic Press, New York, 1967.
+
+\bibitem[\textsc{Flanders, W.D.} et~al.(2011)\textsc{Flanders, W.D.},
+  \textsc{Klein, M.}, \textsc{Darrow, L.A.}, \textsc{Strickland, M.J.},
+  \textsc{Sarnat, S.E.}, \textsc{Sarnat, J.A.}, \textsc{Waller, L.A.},
+  \textsc{Winquist, A.}, and \textsc{Tolbert, P.E.}]{112}
+\textsc{Flanders, W.D.}, \textsc{Klein, M.}, \textsc{Darrow, L.A.},
+  \textsc{Strickland, M.J.}, \textsc{Sarnat, S.E.}, \textsc{Sarnat, J.A.},
+  \textsc{Waller, L.A.}, \textsc{Winquist, A.}, and \textsc{Tolbert, P.E.}
+\newblock {A method for detection of residual confounding in time-series and
+  other observational studies}.
+\newblock \emph{Epidemiology (Cambridge, Mass.)}, 22:\penalty0 59--67, 2011.
+\newblock \doi{10.1097/EDE.0b013e3181fdcabe}.
+\newblock URL \url{https://doi.org/10.1097/EDE.0b013e3181fdcabe}.
+\newblock \url{https://doi.org/10.1097/EDE.0b013e3181fdcabe}.
+
+\bibitem[\textsc{Flanders, W.D.} et~al.(2015)\textsc{Flanders, W.D.},
+  \textsc{Strickland, M.J.}, and \textsc{Klein, M.}]{114}
+\textsc{Flanders, W.D.}, \textsc{Strickland, M.J.}, and \textsc{Klein, M.}
+\newblock {A New Method for Partial Correction of Residual Confounding in
+  Time-Series and Other Observational Studies}.
+\newblock \emph{American Journal of Epidemiology}, 185\penalty0 (10):\penalty0
+  941--949, 2015.
+\newblock \doi{10.1093/aje/kwx013}.
+\newblock URL \url{https://doi.org/10.1093/aje/kwx013}.
+\newblock \url{https://doi.org/10.1093/aje/kwx013}.
+
+\bibitem[\textsc{Gagnon-Bartsch, J.A.} and \textsc{Speed, T.P.}(2012)]{113}
+\textsc{Gagnon-Bartsch, J.A.} and \textsc{Speed, T.P.}
+\newblock {Using control genes to correct for unwanted variation in microarray
+  data}.
+\newblock \emph{Biostatistics}, 13\penalty0 (3):\penalty0 539--552, 2012.
+\newblock \doi{10.1093/biostatistics/kxr034}.
+\newblock URL \url{https://doi.org/10.1093/biostatistics/kxr034}.
+\newblock \url{https://doi.org/10.1093/biostatistics/kxr034}.
+
+\bibitem[\textsc{Gao, F.} and \textsc{van der Vaart, A.}(2016)]{25}
+\textsc{Gao, F.} and \textsc{van der Vaart, A.}
+\newblock {P}osterior {C}ontraction {R}ates for {D}econvolution of
+  {Dirichlet-Laplace} {M}ixtures.
+\newblock \emph{Electronic Journal of Statistics}, 10:\penalty0 608–627,
+  2016.
+\newblock \doi{10.1214/16-EJS1119}.
+\newblock URL \url{https://doi.org/10.1214/16-EJS1119}.
+\newblock \url{https://doi.org/10.1214/16-EJS1119}.
+
+\bibitem[\textsc{Ghosal, S.} and \textsc{van der Vaart, A.}(2001)]{23}
+\textsc{Ghosal, S.} and \textsc{van der Vaart, A.}
+\newblock {E}ntropies and {R}ates of {C}onvergence for {Maximum} {L}ikelihood
+  and {Bayes} {Estimation} for {Mixtures} of {Normal} {Densities}.
+\newblock \emph{The Annals of Statistics}, 29\penalty0 (5):\penalty0
+  1233--1263, 2001.
+\newblock \doi{10.1214/aos/1013203452}.
+\newblock URL \url{https://doi.org/10.1214/aos/1013203452}.
+\newblock \url{https://doi.org/10.1214/aos/1013203452}.
+
+\bibitem[\textsc{Ghosal, S.} and \textsc{van der Vaart, A.}(2007)]{24}
+\textsc{Ghosal, S.} and \textsc{van der Vaart, A.}
+\newblock {P}osterior {C}onvergence {R}ates of {Dirichlet} {Mixtures} at
+  {Smooth} {Densities}.
+\newblock \emph{The Annals of Statistics}, 35\penalty0 (2):\penalty0 697–723,
+  2007.
+\newblock URL \url{http://www.jstor.org/stable/25463573}.
+\newblock \url{http://www.jstor.org/stable/25463573}.
+
+\bibitem[\textsc{Ghosal, S.} and \textsc{van der Vaart, A.}(2017)]{4}
+\textsc{Ghosal, S.} and \textsc{van der Vaart, A.}
+\newblock \emph{{F}undamentals of {N}onparametric {B}ayesian {I}nference}.
+\newblock Cambridge University Press, 2017.
+
+\bibitem[\textsc{Gili, F.} et~al.(2025)\textsc{Gili, F.}, \textsc{Jongbloed,
+  G.}, and \textsc{van der Vaart, A.}]{27}
+\textsc{Gili, F.}, \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}
+\newblock {A}daptive and {E}fficient {I}sotonic {E}stimation in {Wicksell’s}
+  {Problem}.
+\newblock \emph{Journal of Nonparametric Statistics}, 37\penalty0 (3):\penalty0
+  491--531, 2025.
+\newblock \doi{10.1080/10485252.2024.2397680}.
+\newblock URL \url{https://doi.org/10.1080/10485252.2024.2397680}.
+\newblock \url{https://doi.org/10.1080/10485252.2024.2397680}.
+
+\bibitem[\textsc{Gili, F.} et~al.(2026{\natexlab{a}})\textsc{Gili, F.},
+  \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}]{50}
+\textsc{Gili, F.}, \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}
+\newblock {A}symptotically {E}fficient {E}stimation under {L}ocal {C}onstraint
+  in {Wicksell's} {P}roblem.
+\newblock \emph{Journal of Statistical Planning and Inference}, 240:\penalty0
+  106299, 2026{\natexlab{a}}.
+\newblock \doi{10.1016/j.jspi.2025.106299}.
+\newblock URL \url{https://doi.org/10.1016/j.jspi.2025.106299}.
+\newblock \url{https://doi.org/10.1016/j.jspi.2025.106299}.
+
+\bibitem[\textsc{Gili, F.} et~al.(2026{\natexlab{b}})\textsc{Gili, F.},
+  \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}]{51}
+\textsc{Gili, F.}, \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}
+\newblock {S}emiparametric {B}ernstein-von {M}ises {P}henomenon via
+  {I}sotonized {P}osterior in {W}icksell's problem.
+\newblock \emph{The Annals of Statistics}, 54\penalty0 (1):\penalty0 383--407,
+  2026{\natexlab{b}}.
+\newblock \doi{10.1214/25-AOS2571}.
+\newblock URL \url{https://doi.org/10.1214/25-AOS2571}.
+\newblock \url{https://doi.org/10.1214/25-AOS2571}.
+
+\bibitem[\textsc{Gili, F.} et~al.(2026{\natexlab{c}})\textsc{Gili, F.},
+  \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}]{64}
+\textsc{Gili, F.}, \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}
+\newblock {S}upplement to ``{S}emiparametric {B}ernstein-von {M}ises
+  {P}henomenon via {I}sotonized {P}osterior in {W}icksell's problem''.
+\newblock \emph{The Annals of Statistics}, 54\penalty0 (1), 2026{\natexlab{c}}.
+\newblock \doi{10.1214/25-AOS2571}.
+\newblock URL \url{https://doi.org/10.1214/25-AOS2571}.
+\newblock Online supplement to \cite{51}.
+
+\bibitem[\textsc{Gili, F.} et~al.(2026{\natexlab{d}})\textsc{Gili, F.},
+  \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}]{65}
+\textsc{Gili, F.}, \textsc{Jongbloed, G.}, and \textsc{van der Vaart, A.}
+\newblock {S}emiparametric {B}ernstein-von {M}ises {P}henomenon via
+  {I}sotonized {P}osterior in {W}icksell's problem.
+\newblock \emph{The Annals of Statistics}, 54\penalty0 (1):\penalty0 383--407,
+  2026{\natexlab{d}}.
+\newblock \doi{10.1214/25-AOS2571}.
+\newblock URL \url{https://doi.org/10.1214/25-AOS2571}.
+\newblock \url{https://doi.org/10.1214/25-AOS2571}.
+
+\bibitem[\textsc{Golubev, G. K.} and \textsc{Enikeeva, F. N.}(2001)]{17}
+\textsc{Golubev, G. K.} and \textsc{Enikeeva, F. N.}
+\newblock {A}symptotically {E}fficient {S}moothing in the {Wicksell} {Problem}
+  under {Squared} {Losses}.
+\newblock \emph{Problems of Information Transmission}, 37\penalty0
+  (1):\penalty0 12--21, 2001.
+\newblock \doi{10.1023/A:1010495609901}.
+\newblock URL \url{https://doi.org/10.1023/A:1010495609901}.
+\newblock \url{https://doi.org/10.1023/A:1010495609901}.
+
+\bibitem[\textsc{Golubev, G. K.} and \textsc{Levit, B. Y.}(1998)]{10}
+\textsc{Golubev, G. K.} and \textsc{Levit, B. Y.}
+\newblock {A}symptotically {E}fficient {E}stimation in the {Wicksell}
+  {Problem}.
+\newblock \emph{The Annals of Statistics}, 26\penalty0 (6):\penalty0
+  2407–2419, 1998.
+\newblock \doi{10.1214/aos/1024691477}.
+\newblock URL \url{https://doi.org/10.1214/aos/1024691477}.
+\newblock \url{https://doi.org/10.1214/aos/1176324310}.
+
+\bibitem[\textsc{Grimmett, G.} and \textsc{Stirzaker, D.}(1987)]{105}
+\textsc{Grimmett, G.} and \textsc{Stirzaker, D.}
+\newblock \emph{{Probability and Random Processes}}.
+\newblock Oxford University Press, 1987.
+
+\bibitem[\textsc{Gripenberg, G.} and \textsc{Staffans, O.}(1990)]{103}
+\textsc{Londen, S. O.} \textsc{Gripenberg, G.} and \textsc{Staffans, O.}
+\newblock \emph{{Volterra Integral and Functional Equations}}.
+\newblock Cambridge University Press, 1990.
+\newblock URL \url{https://doi.org/10.1017/CBO9780511662805}.
+
+\bibitem[\textsc{Groeneboom, P.} and \textsc{Jongbloed, G.}(1995)]{1}
+\textsc{Groeneboom, P.} and \textsc{Jongbloed, G.}
+\newblock {I}sotonic {E}stimation and {R}ates of {C}onvergence in {Wicksell's}
+  {P}roblem.
+\newblock \emph{The Annals of Statistic}, 23\penalty0 (5):\penalty0 1528--1542,
+  1995.
+\newblock \doi{10.1214/aos/1176324310}.
+\newblock URL \url{https://doi.org/10.1214/aos/1176324310}.
+\newblock \url{https://doi.org/10.1214/aos/1176324310}.
+
+\bibitem[\textsc{Groeneboom, P.} and \textsc{Jongbloed, G.}(2014)]{2}
+\textsc{Groeneboom, P.} and \textsc{Jongbloed, G.}
+\newblock \emph{{N}onparametric {E}stimation {U}nder {S}hape {C}onstraints}.
+\newblock Cambridge University Press, 2014.
+
+\bibitem[\textsc{Groeneboom, P.} and \textsc{Wellner, J. A.}(1992)]{71}
+\textsc{Groeneboom, P.} and \textsc{Wellner, J. A.}
+\newblock {Information bounds and nonparametric maximum likelihood estimation}.
+\newblock \emph{DMV Seminar, Birkh{\"a}user Verlag, Basel}, 1992.
+\newblock Book.
+
+\bibitem[\textsc{Hall, P.} and \textsc{Lahiri, S. N.}(2008)]{94}
+\textsc{Hall, P.} and \textsc{Lahiri, S. N.}
+\newblock {Estimation of distributions, moments and quantiles in deconvolution
+  problems}.
+\newblock \emph{Ann. Statist.}, 36:\penalty0 2110--2134, 2008.
+\newblock URL \url{https://www.jstor.org/stable/25464705}.
+\newblock \url{https://www.jstor.org/stable/25464705}.
+
+\bibitem[\textsc{Hall, P.} and \textsc{Smith, R. L.}(1988)]{16}
+\textsc{Hall, P.} and \textsc{Smith, R. L.}
+\newblock {T}he {K}ernel {M}ethod for {U}nfolding {S}phere {S}ize
+  {D}istributions.
+\newblock \emph{J. Comput. Phys.}, 74:\penalty0 409--421, 1988.
+\newblock \doi{10.1016/0021-9991(88)90085-X}.
+\newblock URL \url{https://doi.org/10.1016/0021-9991(88)90085-X}.
+\newblock \url{https://doi.org/10.1016/0021-9991(88)90085-X}.
+
+\bibitem[\textsc{Hjort, N.} and \textsc{Petrone, S.}(2007)]{41}
+\textsc{Hjort, N.} and \textsc{Petrone, S.}
+\newblock {N}onparametric {Q}uantile {I}nference using {Dirichlet} {Processes},
+  2007.
+\newblock URL \url{https://doi.org/10.1142/9789812708298_0023}.
+\newblock \url{https://doi.org/10.1142/9789812708298_0023}.
+
+\bibitem[\textsc{Jirak, M.} et~al.(2014)\textsc{Jirak, M.}, \textsc{Meister,
+  A.}, and \textsc{Rei{\ss}, M.}]{79}
+\textsc{Jirak, M.}, \textsc{Meister, A.}, and \textsc{Rei{\ss}, M.}
+\newblock {Adaptive function estimation in nonparametric regression with
+  one-sided errors}.
+\newblock \emph{Ann. Statist.}, 42:\penalty0 1970--2002, 2014.
+\newblock \doi{10.1214/14-AOS1248}.
+\newblock URL \url{https://doi.org/10.1214/14-AOS1248}.
+\newblock \url{https://doi.org/10.1214/14-AOS1248}.
+
+\bibitem[\textsc{Jongbloed, G.}(1995)]{104}
+\textsc{Jongbloed, G.}
+\newblock \emph{{Three Statistical Inverse Problems,
+  Estimators-algorithms-asymptotics}}.
+\newblock PhD Thesis, TU Delft, 1995.
+\newblock URL
+  \url{https://repository.tudelft.nl/record/uuid:1412cd89-70ff-41ae-8ba2-04abcadc92a9}.
+
+\bibitem[\textsc{Jongbloed, G.}(1998)]{73}
+\textsc{Jongbloed, G.}
+\newblock {Exponential deconvolution: Two asymptotically equivalent
+  estimators}.
+\newblock \emph{Stat. Neerl.}, 52:\penalty0 6--17, 1998.
+\newblock \doi{10.1111/1467-9574.00065}.
+\newblock URL \url{https://doi.org/10.1111/1467-9574.00065}.
+\newblock \url{https://doi.org/10.1111/1467-9574.00065}.
+
+\bibitem[\textsc{Jongbloed, G.}(2001)]{3}
+\textsc{Jongbloed, G.}
+\newblock {S}ieved {M}aximum {L}ikelihood {E}stimation in {Wicksell's}
+  {Problem} and {R}elated {D}econvolution {Problems}.
+\newblock \emph{Scandinavian Journal of Statistics}, 2\penalty0 (6):\penalty0
+  1152--1174, 2001.
+\newblock \doi{10.1111/1467-9469.00230}.
+\newblock URL \url{https://doi.org/10.1111/1467-9469.00230}.
+\newblock \url{https://doi.org/10.1111/1467-9469.00230}.
+
+\bibitem[\textsc{Kallenberg, O.}(2021)]{53}
+\textsc{Kallenberg, O.}
+\newblock \emph{{F}oundations of {Modern} {Probability}}.
+\newblock Probability Theory and Stochastic Modelling. Springer, third edition,
+  2021.
+\newblock URL \url{https://link.springer.com/book/10.1007/978-3-030-61871-1}.
+\newblock \url{https://link.springer.com/book/10.1007/978-3-030-61871-1}.
+
+\bibitem[\textsc{Kallus, N.} et~al.(2021)\textsc{Kallus, N.}, \textsc{Mao, X.},
+  and \textsc{Uehara, M.}]{119}
+\textsc{Kallus, N.}, \textsc{Mao, X.}, and \textsc{Uehara, M.}
+\newblock {Causal inference under unmeasured confounding with negative
+  controls: A minimax learning approach}, 2021.
+\newblock URL \url{https://doi.org/10.48550/arXiv.2103.14029}.
+\newblock Preprint at \url{https://doi.org/10.48550/arXiv.2103.14029}.
+
+\bibitem[\textsc{Kim, J.} and \textsc{Pollard, D.}(1990)]{12}
+\textsc{Kim, J.} and \textsc{Pollard, D.}
+\newblock {C}ube {R}oot {A}symptotics.
+\newblock \emph{The Annals of Statistics}, 18\penalty0 (1):\penalty0 191--219,
+  1990.
+\newblock \doi{10.1214/aos/1176347498}.
+\newblock URL \url{https://doi.org/10.1214/aos/1176347498}.
+\newblock \url{https://doi.org/10.1214/aos/1176347498}.
+
+\bibitem[\textsc{Kim, Y.}(2006)]{36}
+\textsc{Kim, Y.}
+\newblock {T}he {Bernstein–von} {Mises} {T}heorem for the {P}roportional
+  {H}azard {M}odel.
+\newblock \emph{The Annals of Statistics}, 34\penalty0 (4):\penalty0 1678 --
+  1700, 2006.
+\newblock \doi{10.1214/009053606000000533}.
+\newblock URL \url{https://doi.org/10.1214/009053606000000533}.
+\newblock \url{https://doi.org/10.1214/009053606000000533}.
+
+\bibitem[\textsc{Kim, Y.} and \textsc{Lee, J.}(2004)]{44}
+\textsc{Kim, Y.} and \textsc{Lee, J.}
+\newblock {A} {Bernstein–von} {M}ises {T}heorem in the {N}onparametric
+  {R}ight-{C}ensoring {M}odel.
+\newblock \emph{Annals of Statistics}, 32:\penalty0 1492--1512, 2004.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:88519037}.
+\newblock \url{https://api.semanticscholar.org/CorpusID:88519037}.
+
+\bibitem[\textsc{Kompa, B.} et~al.(2022)\textsc{Kompa, B.}, \textsc{Bellamy,
+  D.R.}, \textsc{Kolokotrones, T.}, \textsc{Robins, J.M.}, and \textsc{Beam,
+  A.L.}]{118}
+\textsc{Kompa, B.}, \textsc{Bellamy, D.R.}, \textsc{Kolokotrones, T.},
+  \textsc{Robins, J.M.}, and \textsc{Beam, A.L.}
+\newblock {Deep learning methods for proximal inference via maximum moment
+  restriction}.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~35, pages 11189--11201, 2022.
+\newblock URL
+  \url{https://papers.neurips.cc/paper_files/paper/2022/file/487c9d6ef55e73aa9dfd4b48fe3713a6-Paper-Conference.pdf}.
+\newblock
+  \url{https://papers.neurips.cc/paper_files/paper/2022/file/487c9d6ef55e73aa9dfd4b48fe3713a6-Paper-Conference.pdf}.
+
+\bibitem[\textsc{Koshevnik, Yu. A.} and \textsc{Levit, B. Ya.}(2023)]{30}
+\textsc{Koshevnik, Yu. A.} and \textsc{Levit, B. Ya.}
+\newblock {O}n a {Non-Parametric} {Analogue} of the {Information} {Matrix}.
+\newblock \emph{Theory of Probability and its Applications}, 21, 2023.
+\newblock URL \url{https://doi.org/10.1137/1121087}.
+\newblock \url{https://doi.org/10.1137/1121087}.
+
+\bibitem[\textsc{Kuroki, M.} and \textsc{Pearl, J.}(2014)]{204}
+\textsc{Kuroki, M.} and \textsc{Pearl, J.}
+\newblock {Measurement bias and effect restoration in causal inference}.
+\newblock \emph{Biometrika}, 101:\penalty0 423--437, 2014.
+\newblock \doi{10.1093/biomet/ast066}.
+\newblock URL \url{https://doi.org/10.1093/biomet/ast066}.
+\newblock \url{https://doi.org/10.1093/biomet/ast066}.
+
+\bibitem[\textsc{Lipsitch, M.} et~al.(2010)\textsc{Lipsitch, M.},
+  \textsc{Tchetgen, E.T.}, and \textsc{Cohen, T.}]{203}
+\textsc{Lipsitch, M.}, \textsc{Tchetgen, E.T.}, and \textsc{Cohen, T.}
+\newblock {Negative controls: a tool for detecting confounding and bias in
+  observational studies}.
+\newblock \emph{Epidemiology (Cambridge, Mass.)}, 21:\penalty0 383--388, 2010.
+\newblock \doi{10.1097/EDE.0b013e3181d61eeb}.
+\newblock URL \url{https://doi.org/10.1097/EDE.0b013e3181d61eeb}.
+\newblock \url{https://doi.org/10.1097/EDE.0b013e3181d61eeb}.
+
+\bibitem[\textsc{Lopez-Sanchez, M. A.} and {\textsc{LLana-Fúnez},
+  s.}(2016)]{34}
+\textsc{Lopez-Sanchez, M. A.} and {\textsc{LLana-Fúnez}, s.}
+\newblock {A}n {E}xtension of the {Saltykov} {M}ethod to {Q}uantify 3{D}
+  {G}rain {S}ize {D}istributions in {M}ylonites.
+\newblock \emph{Journal of Structural Geology}, 93:\penalty0 149--161, 2016.
+\newblock \doi{10.1016/j.jsg.2016.10.008}.
+\newblock URL \url{https://doi.org/10.1016/j.jsg.2016.10.008}.
+\newblock \url{https://doi.org/10.1016/j.jsg.2016.10.008}.
+
+\bibitem[\textsc{Lucy, L. B.}(1974)]{68}
+\textsc{Lucy, L. B.}
+\newblock {An iterative technique for the rectification of observed
+  distributions}.
+\newblock \emph{The Astronomical Journal}, 79:\penalty0 745--754, 1974.
+\newblock \doi{10.1086/111605}.
+\newblock URL \url{https://doi.org/10.1086/111605}.
+\newblock \url{https://doi.org/10.1086/111605}.
+
+\bibitem[\textsc{Meister, A.}(2009)]{92}
+\textsc{Meister, A.}
+\newblock {Deconvolution problems in nonparametric statistics}.
+\newblock \emph{Lecture Notes in Statistics, Springer-Verlag, Berlin}, 2009.
+\newblock \doi{10.1007/978-3-540-87557-4}.
+\newblock URL \url{https://doi.org/10.1007/978-3-540-87557-4}.
+\newblock Book, DOI: 10.1007/978-3-540-87557-4.
+
+\bibitem[\textsc{Miao, W.} et~al.(2018)\textsc{Miao, W.}, \textsc{Geng, Z.},
+  and \textsc{Tchetgen Tchetgen, E.J.}]{205}
+\textsc{Miao, W.}, \textsc{Geng, Z.}, and \textsc{Tchetgen Tchetgen, E.J.}
+\newblock {Identifying treatment effects with proxy variables of an unmeasured
+  confounder}.
+\newblock \emph{Biometrika}, 105:\penalty0 987--993, 2018.
+\newblock \doi{10.1093/biomet/asy038}.
+\newblock URL \url{https://doi.org/10.1093/biomet/asy038}.
+\newblock \url{https://doi.org/10.1093/biomet/asy038}.
+
+\bibitem[\textsc{Monard, F.} et~al.(2019)\textsc{Monard, F.}, \textsc{Nickl,
+  R.}, and \textsc{Paternain, G.P.}]{38}
+\textsc{Monard, F.}, \textsc{Nickl, R.}, and \textsc{Paternain, G.P.}
+\newblock {E}fficient {N}onparametric {Bayesian} {I}nference for {X}-ray
+  {T}ransforms.
+\newblock \emph{The Annals of Statistics}, 47\penalty0 (2):\penalty0 1113 --
+  1147, 2019.
+\newblock \doi{10.1214/18-AOS1708}.
+\newblock URL \url{https://doi.org/10.1214/18-AOS1708}.
+\newblock \url{https://doi.org/10.1214/18-AOS1708}.
+
+\bibitem[\textsc{Nguyen, X.}(2013)]{32}
+\textsc{Nguyen, X.}
+\newblock {C}onvergence of {Latent} {Mixing} {Measures} in {Finite} and
+  {Infinite} {Mixture} {Models}.
+\newblock \emph{The Annals of Statistics}, 41\penalty0 (1):\penalty0 370–400,
+  2013.
+\newblock \doi{10.1214/12-AOS1065}.
+\newblock URL \url{https://doi.org/10.1214/12-AOS1065}.
+\newblock \url{https://doi.org/10.1214/AOS1065}.
+
+\bibitem[\textsc{Nickl, R.}(2017)]{39}
+\textsc{Nickl, R.}
+\newblock {B}ernstein-von {M}ises {T}heorems for {S}tatistical {I}nverse
+  {P}roblems {I}: {Schrödinger} equation.
+\newblock \emph{Journal of the European Mathematical Society}, 22, 2017.
+\newblock \doi{10.4171/JEMS/975}.
+\newblock URL \url{https://doi.org/10.4171/JEMS/975}.
+\newblock \url{https://doi.org/10.4171/JEMS/975}.
+
+\bibitem[\textsc{Nickl, R.} and \textsc{Söhl, J.}(2019)]{40}
+\textsc{Nickl, R.} and \textsc{Söhl, J.}
+\newblock {B}ernstein-von {M}ises {T}heorems for {S}tatistical {I}nverse
+  {P}roblems {II}: compound {Poisson} processes.
+\newblock \emph{Electronic Journal of Statistics}, 13\penalty0 (2):\penalty0
+  3513--3571, 2019.
+\newblock \doi{10.1214/19-ejs1609}.
+\newblock URL \url{https://doi.org/10.1214/19-ejs1609}.
+\newblock \url{https://doi.org/10.1214/19-ejs1609}.
+
+\bibitem[\textsc{Norets, A.} and \textsc{Pelenis, J.}(2014)]{121}
+\textsc{Norets, A.} and \textsc{Pelenis, J.}
+\newblock {Posterior Consistency in Conditional Density Estimation by Covariate
+  Dependent Mixtures}.
+\newblock \emph{Econometric Theory}, 30:\penalty0 606--646, 2014.
+\newblock \doi{10.1017/S026646661300042X}.
+\newblock URL \url{https://doi.org/10.1017/S026646661300042X}.
+\newblock \url{https://doi.org/10.1017/S026646661300042X}.
+
+\bibitem[\textsc{Pati, D.} et~al.(2013)\textsc{Pati, D.}, \textsc{Dunson, D.
+  B.}, and \textsc{Tokdar, S.}]{202}
+\textsc{Pati, D.}, \textsc{Dunson, D. B.}, and \textsc{Tokdar, S.}
+\newblock {Posterior consistency in conditional distribution estimation}.
+\newblock \emph{Journal of Multivariate Analysis}, 116:\penalty0 456--472,
+  2013.
+\newblock \doi{10.1016/j.jmva.2013.01.011}.
+\newblock URL \url{https://doi.org/10.1016/j.jmva.2013.01.011}.
+\newblock \url{https://doi.org/10.1016/j.jmva.2013.01.011}.
+
+\bibitem[\textsc{Pensky, M.} and \textsc{Vidakovic, B.}(1999)]{89}
+\textsc{Pensky, M.} and \textsc{Vidakovic, B.}
+\newblock {Adaptive wavelet estimator for nonparametric density deconvolution}.
+\newblock \emph{Ann. Statist.}, 27:\penalty0 2033--2053, 1999.
+\newblock \doi{10.1214/aos/1017939249}.
+\newblock URL \url{https://doi.org/10.1214/aos/1017939249}.
+\newblock \url{https://doi.org/10.1214/aos/1017939249}.
+
+\bibitem[\textsc{Pollard, D.}(1984)]{11}
+\textsc{Pollard, D.}
+\newblock \emph{{C}onvergence of {S}tochastic {P}rocesses}.
+\newblock Springer, New York, 1984.
+
+\bibitem[\textsc{Ray, K.}(2017)]{42}
+\textsc{Ray, K.}
+\newblock {A}daptive {B}ernstein-von {M}ises {Theorems} in {Gaussian} {White}
+  {Models}.
+\newblock \emph{The Annals of Statistics}, 45\penalty0 (6):\penalty0
+  2511–2536, 2017.
+\newblock URL \url{http://www.jstor.org/stable/26362949}.
+\newblock \url{http://www.jstor.org/stable/26362949}.
+
+\bibitem[\textsc{Ray, K.} and \textsc{van der Vaart, A.}(2020)]{26}
+\textsc{Ray, K.} and \textsc{van der Vaart, A.}
+\newblock {S}emiparametric {Bayesian} {C}ausal {I}nference.
+\newblock \emph{The Annals of Statistics}, 48:\penalty0 2999--3020, 2020.
+\newblock \doi{10.1214/19-AOS1919}.
+\newblock URL \url{https://doi.org/10.1214/19-AOS1919}.
+\newblock \url{https://doi.org/10.1214/19-AOS1919}.
+
+\bibitem[\textsc{Rei{\ss}, M.} and \textsc{Selk, L.}(2017)]{80}
+\textsc{Rei{\ss}, M.} and \textsc{Selk, L.}
+\newblock {Estimating nonparametric functionals efficiently under one-sided
+  errors}.
+\newblock \emph{Bernoulli}, 23:\penalty0 1022--1055, 2017.
+\newblock URL \url{https://doi.org/10.48550/arXiv.1407.4229}.
+\newblock \url{https://doi.org/10.48550/arXiv.1407.4229}.
+
+\bibitem[\textsc{Richardson, W. H.}(1972)]{67}
+\textsc{Richardson, W. H.}
+\newblock {Bayesian-Based Iterative Method of Image Restoration}.
+\newblock \emph{Journal of the Optical Society of America}, 62\penalty0
+  (1):\penalty0 55--59, 1972.
+\newblock \doi{10.1364/JOSA.62.000055}.
+\newblock URL \url{https://doi.org/10.1364/JOSA.62.000055}.
+\newblock \url{https://doi.org/10.1364/JOSA.62.000055}.
+
+\bibitem[\textsc{Rivoirard, V.} and \textsc{Rousseau, J.}(2012)]{43}
+\textsc{Rivoirard, V.} and \textsc{Rousseau, J.}
+\newblock {B}ernstein-von {M}ises {Theorem} for {Linear} {Functionals} of the
+  density.
+\newblock \emph{The Annals of Statistics}, 40\penalty0 (3):\penalty0
+  1489–1523, 2012.
+\newblock URL \url{http://www.jstor.org/stable/41713683}.
+\newblock \url{http://www.jstor.org/stable/41713683}.
+
+\bibitem[\textsc{Robinson, E. A.}(1957)]{109}
+\textsc{Robinson, E. A.}
+\newblock {P}redictive {D}ecomposition of {S}eismic {T}races.
+\newblock \emph{Geophysics}, 22\penalty0 (4):\penalty0 767--778, 1957.
+\newblock \doi{10.1190/1.1438419}.
+\newblock URL \url{https://doi.org/10.1190/1.1438419}.
+\newblock \url{https://doi.org/10.1190/1.1438419}.
+
+\bibitem[\textsc{Rudin, W.}(1987)]{29}
+\textsc{Rudin, W.}
+\newblock \emph{{R}eal and {Complex} {Analysis}}.
+\newblock McGraw-Hill, New York, 3rd edition, 1987.
+
+\bibitem[\textsc{Sen, B.}(2022)]{22}
+\textsc{Sen, B.}
+\newblock \emph{{A} {G}entle {I}ntroduction to {E}mpirical {P}rocess {T}heory
+  and {A}pplications}.
+\newblock Lecture notes, Columbia University, 2022.
+
+\bibitem[\textsc{Sen, B.} and \textsc{Woodroofe, F. N.}(2012)]{19}
+\textsc{Sen, B.} and \textsc{Woodroofe, F. N.}
+\newblock {B}ootstrap {C}onfidence {I}ntervals for {I}sotonic {E}stimators in a
+  {S}tereological {P}roblem.
+\newblock \emph{Bernoulli}, 18(4):\penalty0 1249–1266, 2012.
+\newblock \doi{10.3150/12-BEJ378}.
+\newblock URL \url{https://doi.org/10.3150/12-BEJ378}.
+\newblock \url{https://doi.org/10.3150/12-BEJ378}.
+
+\bibitem[\textsc{Sen, B.} et~al.(2010)\textsc{Sen, B.}, \textsc{Banerjee, M.},
+  and \textsc{Woodroofe, M.}]{63}
+\textsc{Sen, B.}, \textsc{Banerjee, M.}, and \textsc{Woodroofe, M.}
+\newblock {I}nconsistency of {B}ootstrap: {T}he {G}renander {E}stimator.
+\newblock \emph{The Annals of Statistics}, 38\penalty0 (4):\penalty0
+  1953--1977, 2010.
+\newblock \doi{10.1214/09-AOS777}.
+\newblock URL \url{https://doi.org/10.1214/09-AOS777}.
+\newblock \url{https://doi.org/10.1214/09-AOS777}.
+
+\bibitem[\textsc{Shi, X.} et~al.(2019)\textsc{Shi, X.}, \textsc{Miao, W.},
+  \textsc{Nelson, J.C.}, and \textsc{Tchetgen Tchetgen, E.J.}]{206}
+\textsc{Shi, X.}, \textsc{Miao, W.}, \textsc{Nelson, J.C.}, and
+  \textsc{Tchetgen Tchetgen, E.J.}
+\newblock {Multiply Robust Causal Inference with Double Negative Control
+  Adjustment for Categorical Unmeasured Confounding}.
+\newblock \emph{Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 82\penalty0 (2):\penalty0 521--540, 2019.
+\newblock \doi{10.1111/rssb.12361}.
+\newblock URL \url{https://doi.org/10.1111/rssb.12361}.
+\newblock \url{https://doi.org/10.1111/rssb.12361}.
+
+\bibitem[\textsc{Shi, X.} et~al.(2020)\textsc{Shi, X.}, \textsc{Miao, W.}, and
+  \textsc{Tchetgen Tchetgen, E.}]{111}
+\textsc{Shi, X.}, \textsc{Miao, W.}, and \textsc{Tchetgen Tchetgen, E.}
+\newblock {A Selective Review of Negative Control Methods in Epidemiology}.
+\newblock \emph{Current Epidemiology Reports}, 7\penalty0 (4):\penalty0
+  190--202, 2020.
+\newblock \doi{10.1007/s40471-020-00243-4}.
+\newblock URL \url{https://doi.org/10.1007/s40471-020-00243-4}.
+\newblock \url{https://doi.org/10.1007/s40471-020-00243-4}.
+
+\bibitem[\textsc{Sofer, T.} et~al.(2016)\textsc{Sofer, T.}, \textsc{Richardson,
+  D.B.}, \textsc{Colicino, E.}, \textsc{Schwartz, J.}, and \textsc{Tchetgen
+  Tchetgen, E.J.}]{117}
+\textsc{Sofer, T.}, \textsc{Richardson, D.B.}, \textsc{Colicino, E.},
+  \textsc{Schwartz, J.}, and \textsc{Tchetgen Tchetgen, E.J.}
+\newblock {On negative outcome control of unobserved confounding as a
+  generalization of difference-in-differences}.
+\newblock \emph{Statistical Science}, 31\penalty0 (3):\penalty0 348--361, 2016.
+\newblock \doi{10.1214/16-STS558}.
+\newblock URL \url{https://doi.org/10.1214/16-STS558}.
+\newblock \url{https://doi.org/10.1214/16-STS558}.
+
+\bibitem[\textsc{Stefanski, L. A.}(1990)]{82}
+\textsc{Stefanski, L. A.}
+\newblock {Rates of convergence of some estimators in a class of deconvolution
+  problems}.
+\newblock \emph{Statist. Probab. Lett.}, 9:\penalty0 229--235, 1990.
+\newblock \doi{10.1016/0167-7152(90)90061-B}.
+\newblock URL \url{https://doi.org/10.1016/0167-7152(90)90061-B}.
+\newblock \url{https://doi.org/10.1016/0167-7152(90)90061-B}.
+
+\bibitem[\textsc{Stefanski, L. A.} and \textsc{Carroll, R. J.}(1990)]{83}
+\textsc{Stefanski, L. A.} and \textsc{Carroll, R. J.}
+\newblock {Deconvoluting kernel density estimators}.
+\newblock \emph{Statistics}, 21:\penalty0 169--184, 1990.
+\newblock \doi{10.1080/02331889008802238}.
+\newblock URL \url{https://doi.org/10.1080/02331889008802238}.
+\newblock \url{https://doi.org/10.1080/02331889008802238}.
+
+\bibitem[\textsc{Stoyan, D.} and \textsc{Kendall, W. S.}(1987)]{9}
+\textsc{Stoyan, D.} and \textsc{Kendall, W. S.}
+\newblock \emph{{S}tochastic {G}eometry and {I}ts {A}pplications}.
+\newblock Wiley, New York, 1987.
+
+\bibitem[\textsc{Tchetgen Tchetgen, E.}(2014)]{116}
+\textsc{Tchetgen Tchetgen, E.}
+\newblock {The Control Outcome Calibration Approach for Causal Inference With
+  Unobserved Confounding}.
+\newblock \emph{American Journal of Epidemiology}, 179\penalty0 (5):\penalty0
+  633--640, 2014.
+\newblock \doi{10.1093/aje/kwt303}.
+\newblock URL \url{https://doi.org/10.1093/aje/kwt303}.
+\newblock \url{https://doi.org/10.1093/aje/kwt303}.
+
+\bibitem[\textsc{Tokdar, S.}(2006)]{200}
+\textsc{Tokdar, S.}
+\newblock {Posterior Consistency of {Dirichlet} Location-Scale Mixture of
+  Normals in Density Estimation and Regression}.
+\newblock \emph{The Indian Journal of Statistics}, 67:\penalty0 90--110, 2006.
+\newblock URL \url{https://www.jstor.org/stable/25053478}.
+\newblock \url{https://www.jstor.org/stable/25053478}.
+
+\bibitem[\textsc{van der Vaart, A.}(1998)]{6}
+\textsc{van der Vaart, A.}
+\newblock \emph{{A}symptotic {S}tatistics}.
+\newblock Cambridge University Press, 1998.
+
+\bibitem[\textsc{van der Vaart, A.} and \textsc{Wellner, J.}(2023)]{5}
+\textsc{van der Vaart, A.} and \textsc{Wellner, J.}
+\newblock \emph{{W}eak {C}onvergence and {E}mpirical {P}rocesses}.
+\newblock Springer, New York, 2023.
+
+\bibitem[\textsc{van Es, A. J.}(1991)]{98}
+\textsc{van Es, A. J.}
+\newblock {Uniform Deconvolution: Nonparametric Maximum Likelihood and Inverse
+  Estimation}.
+\newblock 335, 1991.
+\newblock \doi{10.1007/978-94-011-3222-0_14}.
+\newblock URL \url{https://doi.org/10.1007/978-94-011-3222-0_14}.
+\newblock \url{https://doi.org/10.1007/978-94-011-3222-0_14}.
+
+\bibitem[\textsc{van Es, A. J.} and \textsc{Kok, A. R.}(1998)]{102}
+\textsc{van Es, A. J.} and \textsc{Kok, A. R.}
+\newblock {Simple kernel estimators for certain nonparametric deconvolution
+  problems}.
+\newblock \emph{Statistics and Probability Letters}, 39\penalty0 (2):\penalty0
+  151--160, 1998.
+\newblock \doi{10.1016/S0167-7152(98)00054-6}.
+\newblock URL \url{https://doi.org/10.1016/S0167-7152(98)00054-6}.
+\newblock \url{https://doi.org/10.1016/S0167-7152(98)00054-6}.
+
+\bibitem[\textsc{van Es, A. J.} and \textsc{van Zuijlen, M. C. A.}(1996)]{99}
+\textsc{van Es, A. J.} and \textsc{van Zuijlen, M. C. A.}
+\newblock {Convex Minorant Estimators of Distributions in Non-Parametric
+  Deconvolution Problems}.
+\newblock \emph{Scandinavian Journal of Statistics}, 23\penalty0 (1):\penalty0
+  85--104, 1996.
+\newblock \doi{10.2307/4616388}.
+\newblock \url{http://www.jstor.org/stable/4616388}.
+
+\bibitem[\textsc{van Es, B.}(2011)]{75}
+\textsc{van Es, B.}
+\newblock {Combining kernel estimators in the uniform deconvolution problem}.
+\newblock \emph{Stat. Neerl.}, 65:\penalty0 275--296, 2011.
+\newblock \doi{10.1111/j.1467-9574.2011.00485.x}.
+\newblock URL \url{https://doi.org/10.1111/j.1467-9574.2011.00485.x}.
+\newblock \url{https://doi.org/10.1111/j.1467-9574.2011.00485.x}.
+
+\bibitem[\textsc{van Es, B.} et~al.(1995)\textsc{van Es, B.},
+  \textsc{Jongbloed, G.}, and \textsc{van Zuijlen, M.}]{106}
+\textsc{van Es, B.}, \textsc{Jongbloed, G.}, and \textsc{van Zuijlen, M.}
+\newblock {Nonparametric deconvolution for decreasing kernels}.
+\newblock \emph{Delft University of Technology, Faculty of Technical
+  Mathematics and Informatics}, 1995.
+\newblock URL
+  \url{https://www.researchgate.net/publication/2362108_Nonparametric_Deconvolution_for_Decreasing_Kernels}.
+
+\bibitem[\textsc{van Es, B.} et~al.(1998)\textsc{van Es, B.},
+  \textsc{Jongbloed, G.}, and \textsc{van Zuijlen, M.}]{74}
+\textsc{van Es, B.}, \textsc{Jongbloed, G.}, and \textsc{van Zuijlen, M.}
+\newblock {Isotonic inverse estimators for nonparametric deconvolution}.
+\newblock \emph{The Annals of Statistics}, 26:\penalty0 2395--2406, 1998.
+\newblock \doi{10.1214/aos/1024691476}.
+\newblock URL \url{https://doi.org/10.1214/aos/1024691476}.
+\newblock \url{https://doi.org/10.1214/aos/1024691476}.
+
+\bibitem[\textsc{Villani, C.}(2009)]{31}
+\textsc{Villani, C.}
+\newblock \emph{{O}ptimal {Transport}: {Old} and {New}}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2009.
+
+\bibitem[\textsc{Wang, J.} et~al.(2017)\textsc{Wang, J.}, \textsc{Zhao, Q.},
+  \textsc{Hastie, T.}, and \textsc{Owen, A.B.}]{115}
+\textsc{Wang, J.}, \textsc{Zhao, Q.}, \textsc{Hastie, T.}, and \textsc{Owen,
+  A.B.}
+\newblock {Confounder adjustment in multiple hypothesis testing}.
+\newblock \emph{Ann. Statist.}, 45\penalty0 (5):\penalty0 1863--1894, 2017.
+\newblock \doi{10.1214/16-AOS1511}.
+\newblock URL \url{https://doi.org/10.1214/16-AOS1511}.
+\newblock \url{https://doi.org/10.1214/16-AOS1511}.
+
+\bibitem[\textsc{Wang, K.} and \textsc{Ghosal, S.}(2023{\natexlab{a}})]{55}
+\textsc{Wang, K.} and \textsc{Ghosal, S.}
+\newblock {C}overage of {C}redible {I}ntervals in {Bayesian} {M}ultivariate
+  {I}sotonic {R}egression.
+\newblock \emph{Annals of Statistics}, 51\penalty0 (3):\penalty0 1376--1400,
+  2023{\natexlab{a}}.
+\newblock \doi{10.1214/23-AOS2298}.
+\newblock URL \url{https://doi.org/10.1214/23-AOS2298}.
+\newblock \url{https://doi.org/10.1214/23-AOS2298}.
+
+\bibitem[\textsc{Wang, K.} and \textsc{Ghosal, S.}(2023{\natexlab{b}})]{56}
+\textsc{Wang, K.} and \textsc{Ghosal, S.}
+\newblock {P}osterior {C}ontraction and {T}esting for {M}ultivariate {I}sotonic
+  {R}egression.
+\newblock \emph{Electronic Journal of Statistics}, 17\penalty0 (1):\penalty0
+  798--822, 2023{\natexlab{b}}.
+\newblock \doi{10.1214/23-EJS2115}.
+\newblock URL \url{https://doi.org/10.1214/23-EJS2115}.
+\newblock \url{https://doi.org/10.1214/23-EJS2115}.
+
+\bibitem[\textsc{Watson, G. S.}(1971)]{15}
+\textsc{Watson, G. S.}
+\newblock {E}stimating {F}unctionals of {P}article {S}ize {D}istributions.
+\newblock \emph{Biometrika}, 58:\penalty0 483--490, 1971.
+\newblock \doi{10.1093/biomet/58.3.483}.
+\newblock URL \url{https://doi.org/10.1093/biomet/58.3.483}.
+\newblock \url{https://doi.org/10.1093/biomet/58.3.483}.
+
+\bibitem[\textsc{Wicksell, S. D.}(1925)]{14}
+\textsc{Wicksell, S. D.}
+\newblock {T}he {Corpuscle} {Problem}.
+\newblock \emph{Biometrika}, 17:\penalty0 84--99, 1925.
+\newblock \doi{10.1093/biomet/17.1-2.84}.
+\newblock URL \url{https://doi.org/10.1093/biomet/17.1-2.84}.
+\newblock \url{https://doi.org/10.1093/biomet/17.1-2.84}.
+
+\bibitem[\textsc{Zhang, C.-H.}(1990)]{93}
+\textsc{Zhang, C.-H.}
+\newblock {Fourier methods for estimating mixing densities and distributions}.
+\newblock \emph{Ann. Statist.}, 18:\penalty0 806--831, 1990.
+\newblock \doi{10.1214/aos/1176347627}.
+\newblock URL \url{https://doi.org/10.1214/aos/1176347627}.
+\newblock \url{https://doi.org/10.1214/aos/1176347627}.
+
+\end{thebibliography}

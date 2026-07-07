@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: title/title.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapter1/chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapter2/chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapter3/chapter3.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapter4/chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapter5/chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: summary/summary.aux
+Reallocating 'name_of_file' (item size: 1) to 38 items.
+A level-1 auxiliary file: acknowledgements/acknowledgements.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: cv/cv.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: publications/publications.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: mybiblio.bib
+Warning--empty journal in 98
+You've used 114 entries,
+            2773 wiz_defined-function locations,
+            1409 strings with 31491 characters,
+and the built_in function-call counts, 53160 in all, are:
+= -- 5222
+> -- 2425
+< -- 88
++ -- 837
+- -- 717
+* -- 4301
+:= -- 8353
+add.period$ -- 618
+call.type$ -- 114
+change.case$ -- 566
+chr.to.int$ -- 108
+cite$ -- 229
+duplicate$ -- 2309
+empty$ -- 4425
+format.name$ -- 933
+if$ -- 11203
+int.to.chr$ -- 7
+int.to.str$ -- 1
+missing$ -- 129
+newline$ -- 853
+num.names$ -- 456
+pop$ -- 797
+preamble$ -- 1
+purify$ -- 467
+quote$ -- 0
+skip$ -- 1703
+stack$ -- 0
+substring$ -- 2493
+swap$ -- 140
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1169
+warning$ -- 1
+while$ -- 471
+width$ -- 0
+write$ -- 2021
+(There was 1 warning)
