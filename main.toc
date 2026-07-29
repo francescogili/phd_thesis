@@ -69,5 +69,6 @@
 \contentsline {subsection}{\numberline {5.5.3}Consistency by entropy}{199}{subsection.5.5.3}%
 \contentsline {chapter}{Summary}{201}{chapter*.305}%
 \contentsline {chapter}{Samenvatting}{203}{chapter*.306}%
-\contentsline {chapter}{Curriculum Vit\ae }{205}{chapter*.307}%
-\contentsline {chapter}{List of Publications}{207}{chapter*.308}%
+\contentsline {chapter}{Acknowledgements}{205}{chapter*.307}%
+\contentsline {chapter}{Curriculum Vit\ae }{209}{chapter*.308}%
+\contentsline {chapter}{List of Publications}{211}{chapter*.309}%

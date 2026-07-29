@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.17)  29 JUL 2026 21:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.17)  29 JUL 2026 21:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1233,7 +1233,7 @@ Package cleveref Info: always capitalise cross-reference names on input line 785
 LaTeX Font Info:    Trying to load font information for T1+txr on input line 190.
  (C:\Users\fgili\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
-) (main.aux (title/title.aux) (chapter1/chapter1.aux) (chapter2/chapter2.aux) (chapter3/chapter3.aux) (chapter4/chapter4.aux) (chapter5/chapter5.aux) (summary/summary.aux) (cv/cv.aux) (publications/publications.aux))
+) (main.aux (title/title.aux) (chapter1/chapter1.aux) (chapter2/chapter2.aux) (chapter3/chapter3.aux) (chapter4/chapter4.aux) (chapter5/chapter5.aux) (summary/summary.aux) (acknowledgements/acknowledgements.aux) (cv/cv.aux) (publications/publications.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 190.
@@ -1387,12 +1387,12 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 76.
  [3]
-<_logos/tudelft.pdf, id=270, 143.53625pt x 41.15375pt>
+<_logos/tudelft.pdf, id=274, 143.53625pt x 41.15375pt>
 File: _logos/tudelft.pdf Graphic file (type pdf)
 <use _logos/tudelft.pdf>
 Package pdftex.def Info: _logos/tudelft.pdf  used on input line 125.
 (pdftex.def)             Requested size: 126.03412pt x 36.135pt.
-<_logos/nwo.pdf, id=271, 234.8775pt x 54.2025pt>
+<_logos/nwo.pdf, id=275, 234.8775pt x 54.2025pt>
 File: _logos/nwo.pdf Graphic file (type pdf)
 <use _logos/nwo.pdf>
 Package pdftex.def Info: _logos/nwo.pdf  used on input line 127.
@@ -1466,28 +1466,28 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <20.74> not available
 
 ]
 Chapter 2.
-<img/GCmessier_noticks_cropped.pdf, id=483, 359.03737pt x 267.10992pt>
+<img/GCmessier_noticks_cropped.pdf, id=488, 359.03737pt x 267.10992pt>
 File: img/GCmessier_noticks_cropped.pdf Graphic file (type pdf)
 <use img/GCmessier_noticks_cropped.pdf>
 Package pdftex.def Info: img/GCmessier_noticks_cropped.pdf  used on input line 12.
 (pdftex.def)             Requested size: 116.65646pt x 86.78523pt.
-<img/wicksell.jpg, id=484, 905.3825pt x 496.85625pt>
+<img/wicksell.jpg, id=489, 905.3825pt x 496.85625pt>
 File: img/wicksell.jpg Graphic file (type jpg)
 <use img/wicksell.jpg>
 Package pdftex.def Info: img/wicksell.jpg  used on input line 13.
 (pdftex.def)             Requested size: 145.10922pt x 79.6275pt.
-<img/wick_sec_1_adobe_express_page.jpg, id=485, 381.1038pt x 429.2838pt>
+<img/wick_sec_1_adobe_express_page.jpg, id=490, 381.1038pt x 429.2838pt>
 File: img/wick_sec_1_adobe_express_page.jpg Graphic file (type jpg)
 <use img/wick_sec_1_adobe_express_page.jpg>
 Package pdftex.def Info: img/wick_sec_1_adobe_express_page.jpg  used on input line 14.
 (pdftex.def)             Requested size: 76.82234pt x 86.52992pt.
 [11 <./img/GCmessier_noticks_cropped.pdf> <./img/wicksell.jpg> <./img/wick_sec_1_adobe_express_page.jpg>] [12]
-<img/density_new_page.jpg, id=521, 462.528pt x 346.896pt>
+<img/density_new_page.jpg, id=526, 462.528pt x 346.896pt>
 File: img/density_new_page.jpg Graphic file (type jpg)
 <use img/density_new_page.jpg>
 Package pdftex.def Info: img/density_new_page.jpg  used on input line 60.
 (pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
-<img/estimator_new_page.jpg, id=522, 462.528pt x 346.896pt>
+<img/estimator_new_page.jpg, id=527, 462.528pt x 346.896pt>
 File: img/estimator_new_page.jpg Graphic file (type jpg)
 <use img/estimator_new_page.jpg>
 Package pdftex.def Info: img/estimator_new_page.jpg  used on input line 61.
@@ -1500,38 +1500,38 @@ LaTeX Font Info:    Trying to load font information for U+txsya on input line 28
  (C:\Users\fgili\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 ) [19] Excluding 'comment' comment. [20] [21] [22]
-<img/cdf_truth_page.jpg, id=765, 462.528pt x 346.896pt>
+<img/cdf_truth_page.jpg, id=770, 462.528pt x 346.896pt>
 File: img/cdf_truth_page.jpg Graphic file (type jpg)
 <use img/cdf_truth_page.jpg>
 Package pdftex.def Info: img/cdf_truth_page.jpg  used on input line 433.
 (pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
-<img/kernel_page.jpg, id=766, 425.6703pt x 346.896pt>
+<img/kernel_page.jpg, id=771, 425.6703pt x 346.896pt>
 File: img/kernel_page.jpg Graphic file (type jpg)
 <use img/kernel_page.jpg>
 Package pdftex.def Info: img/kernel_page.jpg  used on input line 434.
 (pdftex.def)             Requested size: 163.60333pt x 133.3304pt.
-<img/samplepahts_page.jpg, id=767, 433.62pt x 289.08pt>
+<img/samplepahts_page.jpg, id=772, 433.62pt x 289.08pt>
 File: img/samplepahts_page.jpg Graphic file (type jpg)
 <use img/samplepahts_page.jpg>
 Package pdftex.def Info: img/samplepahts_page.jpg  used on input line 441.
 (pdftex.def)             Requested size: 176.407pt x 117.60606pt.
-<img/zoomsamplepahts_page.jpg, id=768, 433.62pt x 289.08pt>
+<img/zoomsamplepahts_page.jpg, id=773, 433.62pt x 289.08pt>
 File: img/zoomsamplepahts_page.jpg Graphic file (type jpg)
 <use img/zoomsamplepahts_page.jpg>
 Package pdftex.def Info: img/zoomsamplepahts_page.jpg  used on input line 442.
 (pdftex.def)             Requested size: 176.407pt x 117.60606pt.
-<img/ecdfvsnormal_page.jpg, id=776, 539.8569pt x 361.35pt>
+<img/ecdfvsnormal_page.jpg, id=781, 539.8569pt x 361.35pt>
 File: img/ecdfvsnormal_page.jpg Graphic file (type jpg)
 <use img/ecdfvsnormal_page.jpg>
 Package pdftex.def Info: img/ecdfvsnormal_page.jpg  used on input line 457.
 (pdftex.def)             Requested size: 170.71652pt x 114.26695pt.
-<img/pvalues_page.jpg, id=777, 634.5306pt x 433.62pt>
+<img/pvalues_page.jpg, id=782, 634.5306pt x 433.62pt>
 File: img/pvalues_page.jpg Graphic file (type jpg)
 <use img/pvalues_page.jpg>
 Package pdftex.def Info: img/pvalues_page.jpg  used on input line 458.
 (pdftex.def)             Requested size: 184.9429pt x 126.38176pt.
  [23 <./img/cdf_truth_page.jpg> <./img/kernel_page.jpg> <./img/samplepahts_page.jpg> <./img/zoomsamplepahts_page.jpg>] [24 <./img/ecdfvsnormal_page.jpg> <./img/pvalues_page.jpg>] [25]
-<img/perturbation_page.jpg, id=814, 433.62pt x 180.675pt>
+<img/perturbation_page.jpg, id=819, 433.62pt x 180.675pt>
 File: img/perturbation_page.jpg Graphic file (type jpg)
 <use img/perturbation_page.jpg>
 Package pdftex.def Info: img/perturbation_page.jpg  used on input line 528.
@@ -1540,7 +1540,7 @@ Package pdftex.def Info: img/perturbation_page.jpg  used on input line 528.
 LaTeX Font Info:    Font shape `T1/txr/b/it' in size <10> not available
 (Font)              Font shape `T1/txr/bx/it' tried instead on input line 783.
  [34] [35]
-<./img/cdf_truth.pdf, id=1074, 462.52798pt x 346.89601pt>
+<./img/cdf_truth.pdf, id=1079, 462.52798pt x 346.89601pt>
 File: ./img/cdf_truth.pdf Graphic file (type pdf)
 <use ./img/cdf_truth.pdf>
 Package pdftex.def Info: ./img/cdf_truth.pdf  used on input line 864.
@@ -1555,7 +1555,7 @@ Overfull \hbox (5.00761pt too wide) in paragraph at lines 870--885
  [][] 
  []
 
-<img/estimators.pdf, id=1077, 473.15271pt x 345.12036pt>
+<img/estimators.pdf, id=1082, 473.15271pt x 345.12036pt>
 File: img/estimators.pdf Graphic file (type pdf)
 <use img/estimators.pdf>
 Package pdftex.def Info: img/estimators.pdf  used on input line 900.
@@ -1565,33 +1565,33 @@ Overfull \hbox (27.03133pt too wide) in paragraph at lines 900--902
  [][] 
  []
 
-<img/label_estimators.pdf, id=1078, 231.75383pt x 299.18675pt>
+<img/label_estimators.pdf, id=1083, 231.75383pt x 299.18675pt>
 File: img/label_estimators.pdf Graphic file (type pdf)
 <use img/label_estimators.pdf>
 Package pdftex.def Info: img/label_estimators.pdf  used on input line 906.
 (pdftex.def)             Requested size: 122.34692pt x 157.94734pt.
 [36 <./img/cdf_truth.pdf>]
-<img/scatterplot1.pdf, id=1109, 578.16pt x 361.35pt>
+<img/scatterplot1.pdf, id=1114, 578.16pt x 361.35pt>
 File: img/scatterplot1.pdf Graphic file (type pdf)
 <use img/scatterplot1.pdf>
 Package pdftex.def Info: img/scatterplot1.pdf  used on input line 921.
 (pdftex.def)             Requested size: 184.9429pt x 115.58473pt.
-<img/tukey1.pdf, id=1110, 578.16pt x 364.9635pt>
+<img/tukey1.pdf, id=1115, 578.16pt x 364.9635pt>
 File: img/tukey1.pdf Graphic file (type pdf)
 <use img/tukey1.pdf>
 Package pdftex.def Info: img/tukey1.pdf  used on input line 923.
 (pdftex.def)             Requested size: 170.71652pt x 107.76353pt.
-<img/title_histo.pdf, id=1111, 1011.78pt x 27.82394pt>
+<img/title_histo.pdf, id=1116, 1011.78pt x 27.82394pt>
 File: img/title_histo.pdf Graphic file (type pdf)
 <use img/title_histo.pdf>
 Package pdftex.def Info: img/title_histo.pdf  used on input line 930.
 (pdftex.def)             Requested size: 344.27852pt x 9.46765pt.
-<img/1000_3cropped1.pdf, id=1112, 1011.78pt x 330.09322pt>
+<img/1000_3cropped1.pdf, id=1117, 1011.78pt x 330.09322pt>
 File: img/1000_3cropped1.pdf Graphic file (type pdf)
 <use img/1000_3cropped1.pdf>
 Package pdftex.def Info: img/1000_3cropped1.pdf  used on input line 935.
 (pdftex.def)             Requested size: 344.27852pt x 112.32086pt.
-<img/W52cropped.pdf, id=1113, 636.55418pt x 515.14056pt>
+<img/W52cropped.pdf, id=1118, 636.55418pt x 515.14056pt>
 File: img/W52cropped.pdf Graphic file (type pdf)
 <use img/W52cropped.pdf>
 Package pdftex.def Info: img/W52cropped.pdf  used on input line 943.
@@ -1601,7 +1601,7 @@ Overfull \hbox (38.41225pt too wide) in paragraph at lines 943--945
  [][] 
  []
 
-<img/labelextracthisto.pdf, id=1114, 328.8576pt x 177.61055pt>
+<img/labelextracthisto.pdf, id=1119, 328.8576pt x 177.61055pt>
 File: img/labelextracthisto.pdf Graphic file (type pdf)
 <use img/labelextracthisto.pdf>
 Package pdftex.def Info: img/labelextracthisto.pdf  used on input line 949.
@@ -1635,27 +1635,27 @@ pdfTeX warning: pdflatex (file ./img/labelextracthisto.pdf): PDF inclusion: mult
 ]
 Chapter 3.
 [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
-<../Paper_IV/Paper_IV_AOS_latex/200_1.pdf, id=2089, 410.63412pt x 306.87148pt>
+<../Paper_IV/Paper_IV_AOS_latex/200_1.pdf, id=2094, 410.63412pt x 306.87148pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/200_1.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/200_1.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/200_1.pdf  used on input line 343.
 (pdftex.def)             Requested size: 177.54361pt x 132.68262pt.
-<../Paper_IV/Paper_IV_AOS_latex/2000_1.pdf, id=2090, 410.63412pt x 306.87148pt>
+<../Paper_IV/Paper_IV_AOS_latex/2000_1.pdf, id=2095, 410.63412pt x 306.87148pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/2000_1.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/2000_1.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/2000_1.pdf  used on input line 349.
 (pdftex.def)             Requested size: 177.54361pt x 132.68262pt.
-<../Paper_IV/Paper_IV_AOS_latex/2000_zoom_1.pdf, id=2091, 410.63412pt x 306.87148pt>
+<../Paper_IV/Paper_IV_AOS_latex/2000_zoom_1.pdf, id=2096, 410.63412pt x 306.87148pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/2000_zoom_1.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/2000_zoom_1.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/2000_zoom_1.pdf  used on input line 356.
 (pdftex.def)             Requested size: 184.94292pt x 138.21262pt.
-<../Paper_IV/Paper_IV_AOS_latex/2000_h.pdf, id=2092, 589.00049pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/2000_h.pdf, id=2097, 589.00049pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/2000_h.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/2000_h.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/2000_h.pdf  used on input line 363.
 (pdftex.def)             Requested size: 177.54361pt x 130.70895pt.
-<../Paper_IV/Paper_IV_AOS_latex/2000_qq.pdf, id=2093, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/2000_qq.pdf, id=2098, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/2000_qq.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/2000_qq.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/2000_qq.pdf  used on input line 370.
@@ -1670,32 +1670,32 @@ Underfull \vbox (badness 1721) has occurred while \output is active []
 
 pdfTeX warning: pdflatex (file ../Paper_IV/Paper_IV_AOS_latex/2000_qq.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<../Paper_IV/Paper_IV_AOS_latex/gamma_055.pdf, id=2307, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/gamma_055.pdf, id=2312, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/gamma_055.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/gamma_055.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_055.pdf  used on input line 388.
 (pdftex.def)             Requested size: 192.34221pt x 144.25293pt.
-<../Paper_IV/Paper_IV_AOS_latex/gamma_06.pdf, id=2308, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/gamma_06.pdf, id=2313, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/gamma_06.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/gamma_06.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_06.pdf  used on input line 394.
 (pdftex.def)             Requested size: 192.34221pt x 144.25293pt.
-<../Paper_IV/Paper_IV_AOS_latex/gamma_065.pdf, id=2309, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/gamma_065.pdf, id=2314, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/gamma_065.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/gamma_065.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_065.pdf  used on input line 400.
 (pdftex.def)             Requested size: 192.34221pt x 144.25293pt.
-<../Paper_IV/Paper_IV_AOS_latex/gamma_07.pdf, id=2310, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/gamma_07.pdf, id=2315, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/gamma_07.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/gamma_07.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_07.pdf  used on input line 406.
 (pdftex.def)             Requested size: 192.34221pt x 144.25293pt.
-<../Paper_IV/Paper_IV_AOS_latex/gamma_08.pdf, id=2311, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/gamma_08.pdf, id=2316, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/gamma_08.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/gamma_08.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_08.pdf  used on input line 412.
 (pdftex.def)             Requested size: 192.34221pt x 144.25293pt.
-<../Paper_IV/Paper_IV_AOS_latex/gamma_15.pdf, id=2312, 578.16pt x 433.62pt>
+<../Paper_IV/Paper_IV_AOS_latex/gamma_15.pdf, id=2317, 578.16pt x 433.62pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/gamma_15.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/gamma_15.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_15.pdf  used on input line 418.
@@ -1704,17 +1704,17 @@ Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/gamma_15.pdf  used on in
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [89]
-<../Paper_IV/Paper_IV_AOS_latex/ngc2622_1400_projected_stars.pdf, id=2321, 462.52798pt x 346.89601pt>
+<../Paper_IV/Paper_IV_AOS_latex/ngc2622_1400_projected_stars.pdf, id=2326, 462.52798pt x 346.89601pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/ngc2622_1400_projected_stars.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/ngc2622_1400_projected_stars.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/ngc2622_1400_projected_stars.pdf  used on input line 441.
 (pdftex.def)             Requested size: 203.43832pt x 152.58177pt.
-<../Paper_IV/Paper_IV_AOS_latex/1400_stars.pdf, id=2322, 462.52798pt x 346.89601pt>
+<../Paper_IV/Paper_IV_AOS_latex/1400_stars.pdf, id=2327, 462.52798pt x 346.89601pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/1400_stars.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/1400_stars.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/1400_stars.pdf  used on input line 445.
 (pdftex.def)             Requested size: 188.63974pt x 141.48193pt.
-<../Paper_IV/Paper_IV_AOS_latex/CI_1400.pdf, id=2323, 499.3857pt x 375.0813pt>
+<../Paper_IV/Paper_IV_AOS_latex/CI_1400.pdf, id=2328, 499.3857pt x 375.0813pt>
 File: ../Paper_IV/Paper_IV_AOS_latex/CI_1400.pdf Graphic file (type pdf)
 <use ../Paper_IV/Paper_IV_AOS_latex/CI_1400.pdf>
 Package pdftex.def Info: ../Paper_IV/Paper_IV_AOS_latex/CI_1400.pdf  used on input line 449.
@@ -1732,53 +1732,53 @@ pdfTeX warning: pdflatex (file ../Paper_IV/Paper_IV_AOS_latex/CI_1400.pdf): PDF 
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
  [92] [93] [94]
-<../Paper_III/Paper_III_latex_arxiv/img_sim/comp.pdf, id=2652, 429.30086pt x 336.09666pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/comp.pdf, id=2657, 429.30086pt x 336.09666pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/comp.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/comp.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/comp.pdf  used on input line 603.
 (pdftex.def)             Requested size: 221.93375pt x 173.75072pt.
  [95]
-<../Paper_III/Paper_III_latex_arxiv/img_sim/GCcomparison3(450 samples)foto.pdf, id=2665, 462.52798pt x 346.89601pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/GCcomparison3(450 samples)foto.pdf, id=2670, 462.52798pt x 346.89601pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/GCcomparison3(450 samples)foto.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/GCcomparison3(450 samples)foto.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/GCcomparison3(450 samples)foto.pdf  used on input line 615.
 (pdftex.def)             Requested size: 203.43832pt x 152.58177pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/gc200.pdf, id=2666, 429.30086pt x 336.09666pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/gc200.pdf, id=2671, 429.30086pt x 336.09666pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/gc200.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/gc200.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/gc200.pdf  used on input line 619.
 (pdftex.def)             Requested size: 188.63974pt x 147.68297pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/gc400.pdf, id=2667, 429.30086pt x 336.09666pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/gc400.pdf, id=2672, 429.30086pt x 336.09666pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/gc400.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/gc400.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/gc400.pdf  used on input line 623.
 (pdftex.def)             Requested size: 188.63974pt x 147.68297pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/200.pdf, id=2668, 412.35455pt x 316.32678pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/200.pdf, id=2673, 412.35455pt x 316.32678pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/200.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/200.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/200.pdf  used on input line 634.
 (pdftex.def)             Requested size: 169.77461pt x 130.24023pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/2000.pdf, id=2669, 429.30086pt x 336.09666pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/2000.pdf, id=2674, 429.30086pt x 336.09666pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/2000.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/2000.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/2000.pdf  used on input line 638.
 (pdftex.def)             Requested size: 175.43356pt x 137.34409pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/hist_200.pdf, id=2670, 578.16pt x 433.62pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/hist_200.pdf, id=2675, 578.16pt x 433.62pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/hist_200.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/hist_200.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/hist_200.pdf  used on input line 643.
 (pdftex.def)             Requested size: 167.88925pt x 125.91199pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/hist_1000.pdf, id=2671, 578.16pt x 433.62pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/hist_1000.pdf, id=2676, 578.16pt x 433.62pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/hist_1000.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/hist_1000.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/hist_1000.pdf  used on input line 647.
 (pdftex.def)             Requested size: 167.88925pt x 125.91199pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/qq_200.pdf, id=2672, 578.16pt x 433.62pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/qq_200.pdf, id=2677, 578.16pt x 433.62pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/qq_200.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/qq_200.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/qq_200.pdf  used on input line 652.
 (pdftex.def)             Requested size: 192.34221pt x 144.25293pt.
-<../Paper_III/Paper_III_latex_arxiv/img_sim/qq_1000.pdf, id=2673, 578.16pt x 433.62pt>
+<../Paper_III/Paper_III_latex_arxiv/img_sim/qq_1000.pdf, id=2678, 578.16pt x 433.62pt>
 File: ../Paper_III/Paper_III_latex_arxiv/img_sim/qq_1000.pdf Graphic file (type pdf)
 <use ../Paper_III/Paper_III_latex_arxiv/img_sim/qq_1000.pdf>
 Package pdftex.def Info: ../Paper_III/Paper_III_latex_arxiv/img_sim/qq_1000.pdf  used on input line 657.
@@ -7462,7 +7462,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 249.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 251.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 251.
-<../Paper_VII/Paper_VII_latex/ZB_cdf_and_inverse_with_identity.pdf, id=3883, 1084.05pt x 542.025pt>
+<../Paper_VII/Paper_VII_latex/ZB_cdf_and_inverse_with_identity.pdf, id=3888, 1084.05pt x 542.025pt>
 File: ../Paper_VII/Paper_VII_latex/ZB_cdf_and_inverse_with_identity.pdf Graphic file (type pdf)
 <use ../Paper_VII/Paper_VII_latex/ZB_cdf_and_inverse_with_identity.pdf>
 Package pdftex.def Info: ../Paper_VII/Paper_VII_latex/ZB_cdf_and_inverse_with_identity.pdf  used on input line 256.
@@ -7521,13 +7521,13 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 284.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 284.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 284.
-<../Paper_VII/Paper_VII_latex/resolvent_kernels_grid.pdf, id=3939, 867.24pt x 1084.05pt>
+<../Paper_VII/Paper_VII_latex/resolvent_kernels_grid.pdf, id=3944, 867.24pt x 1084.05pt>
 File: ../Paper_VII/Paper_VII_latex/resolvent_kernels_grid.pdf Graphic file (type pdf)
 <use ../Paper_VII/Paper_VII_latex/resolvent_kernels_grid.pdf>
 Package pdftex.def Info: ../Paper_VII/Paper_VII_latex/resolvent_kernels_grid.pdf  used on input line 288.
 (pdftex.def)             Requested size: 369.88583pt x 462.36101pt.
  [148]
-<../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images.pdf, id=3948, 864.3492pt x 983.63138pt>
+<../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images.pdf, id=3953, 864.3492pt x 983.63138pt>
 File: ../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images.pdf Graphic file (type pdf)
 <use ../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images.pdf>
 Package pdftex.def Info: ../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images.pdf  used on input line 295.
@@ -7572,7 +7572,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [149 <../Paper_VII/Paper_VII_latex/resolvent_kernels_grid.pdf>]
-<../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images_c.pdf, id=4004, 864.3492pt x 982.08992pt>
+<../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images_c.pdf, id=4009, 864.3492pt x 982.08992pt>
 File: ../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images_c.pdf Graphic file (type pdf)
 <use ../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images_c.pdf>
 Package pdftex.def Info: ../Paper_VII/Paper_VII_latex/combined_deconvolution_plots_large_images_c.pdf  used on input line 303.
@@ -14749,24 +14749,32 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
  [203
 
 ]) [204]
+\openout2 = `acknowledgements/acknowledgements.aux'.
+
+ (acknowledgements/acknowledgements.tex [205
+
+
+
+
+]) [206] [207]
 \openout2 = `cv/cv.aux'.
 
- (cv/cv.tex
-LaTeX Font Info:    No math alphabet change to frozen version normal on input line 4.
-) [205
+ (cv/cv.tex [208
 
 
 
 
 ]
+LaTeX Font Info:    No math alphabet change to frozen version normal on input line 4.
+) [209]
 \openout2 = `publications/publications.aux'.
 
- (publications/publications.tex [206
+ (publications/publications.tex [210
 
 
 
 
-]) [207] (main.bbl [208
+]) [211] (main.bbl [212
 
 
 
@@ -14801,7 +14809,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 98.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 99.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 100.
-[209]
+[213]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 108.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 109.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 110.
@@ -14844,7 +14852,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 220.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 221.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 222.
-[210]
+[214]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 229.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 230.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 231.
@@ -14878,7 +14886,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 339.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 340.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 341.
- [211]
+ [215]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 350.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 351.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 352.
@@ -14910,7 +14918,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 457.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 458.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 459.
- [212]
+ [216]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 467.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 468.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 469.
@@ -14940,7 +14948,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 572.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 579.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 580.
- [213]
+ [217]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 587.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 588.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 595.
@@ -14987,7 +14995,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 689.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 690.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 691.
-[214]
+[218]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 700.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 701.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 702.
@@ -15024,7 +15032,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 812.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 813.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 814.
- [215]
+ [219]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 832.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 833.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 834.
@@ -15054,7 +15062,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 936.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 937.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 938.
- [216]
+ [220]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 946.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 947.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 948.
@@ -15085,26 +15093,26 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input li
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 1040.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 1041.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input line 1042.
-) [217] (main.aux (title/title.aux) (chapter1/chapter1.aux) (chapter2/chapter2.aux) (chapter3/chapter3.aux) (chapter4/chapter4.aux) (chapter5/chapter5.aux) (summary/summary.aux) (cv/cv.aux) (publications/publications.aux))
+) [221] (main.aux (title/title.aux) (chapter1/chapter1.aux) (chapter2/chapter2.aux) (chapter3/chapter3.aux) (chapter4/chapter4.aux) (chapter5/chapter5.aux) (summary/summary.aux) (acknowledgements/acknowledgements.aux) (cv/cv.aux) (publications/publications.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FE1CC8AF35DE834A599FC738297567C2;12127.
+(rerunfilecheck)             Checksum: D8E8D6486A3EF932FAB96694EF94D726;12254.
  ) 
 Here is how much of TeX's memory you used:
- 42401 strings out of 474485
- 847309 string characters out of 5743734
+ 42436 strings out of 474485
+ 848784 string characters out of 5743734
  1963542 words of memory out of 5000000
- 61834 multiletter control sequences out of 15000+600000
+ 61855 multiletter control sequences out of 15000+600000
  722663 words of font info for 921 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,26n,131p,4033b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\fgili\AppData\Local\MiKTeX\fonts/pk/ljfour/public/bbm/dpi600\bbm10.pk><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/rsfs/rsfs10.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/rsfs/rsfs5.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/rsfs/rsfs7.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxb.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxbmi.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxi.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxsc.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txex.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txexa.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txmia.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/fgili/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (223 pages, 23484426 bytes).
+Output written on main.pdf (227 pages, 23494838 bytes).
 PDF statistics:
- 5566 PDF objects out of 6186 (max. 8388607)
- 1023 named destinations out of 1200 (max. 500000)
- 181500 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 5588 PDF objects out of 6186 (max. 8388607)
+ 1028 named destinations out of 1200 (max. 500000)
+ 181508 words of extra memory for PDF output out of 184870 (max. 10000000)
 
