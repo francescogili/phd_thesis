@@ -24,10 +24,10 @@
 \contentsline {subsection}{\numberline {2.3.5}Conclusion}{38}{subsection.2.3.5}%
 \contentsline {section}{\numberline {2.4}Appendix}{39}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Proofs of complemental statements for Theorem \ref {thm: normality Holder}.}{39}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Proofs complemental statements for the LAN expansion. }{51}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3} Proofs of Section \ref {sec: section 2}.}{57}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Efficiency Theory Constrained Space}{71}{subsection.2.4.4}%
-\contentsline {section}{\numberline {2.5}Bibliographic remarks}{74}{section.2.5}%
+\contentsline {subsection}{\numberline {2.4.2}Proofs complemental statements for the LAN expansion. }{52}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3} Proofs of Section \ref {sec: section 2}.}{59}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Efficiency Theory Constrained Space}{73}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Bibliographic remarks}{76}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Wicksell's problem: the Bayesian nonparametric approach}{77}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Semiparametric BvM via Isotonized Posterior}{77}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Introduction}{77}{subsection.3.1.1}%
