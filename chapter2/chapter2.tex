@@ -271,7 +271,7 @@ One can now apply Theorem 2.7 from \cite{12} to the process $\tilde{Z}_n$.
 \begin{align}\label{eq: convergence argmax}
 (\delta^*_n)^{-1}\left(T_n\left(a_0+\delta_n a\right)-x\right) & \rightsquigarrow \underset{t \in I_x}{\arg \max }\left\{t X-\frac{|t|^{\gamma_x+ 1} \pi}{2 m_0} K_x  -a t \right\}. 
 \end{align}
-But it is immediate to see that, almost surely:
+But it is immediate to see that, almost surely (Lemma~\ref{lem: continuity argmax holder}):
 \begin{align}\label{eq: iff relation argmax}
     \underset{t \in I_x}{\arg \max }\left\{t X-\frac{|t|^{\gamma_x+ 1} \pi}{2 m_0} K_x  -a t \right\} \leq 0 \: \: \: \: \iff \: \: \: \: X \leq a.
 \end{align}
@@ -409,7 +409,7 @@ where we used the above derivations, together with Lemma \ref{lemma: conv weak a
     & \pb \left(\sqrt{n} \big( \hat{V}_n (x) - V(x) \big) \leq a \right) =  \pb \Big( \hspace{-0.05cm}  \inf_{s \geq 0} \big\{ Z_n(s) - a s - \sqrt{n} h_x(s)  \text { is maximal} \big\} \hspace{-0.05cm} \leq x \Big) \\
     & \stackrel{n \rightarrow \infty}{\longrightarrow}  \pb \bigg( \argmax_{s \in K} \left\{ \mathbb{Z}_x(s) - a s\right\} \leq x \bigg).
 \end{align*}
-Note that the last expression defines the cdf of a random variable $L_x$, which is the right derivative of the least concave majorant of the process $\mathbb{Z}_x$ evaluated at $x$. Indeed, by the switch relation, we have 
+Note that the last expression defines the cdf of a random variable $L_x$, which is the right derivative of the least concave majorant of the process $\mathbb{Z}_x$ evaluated at $x$. Indeed, by the switch relation and Lemma \ref{lem: lil continuity}, we have 
 $\pb \left( \argmax_{s \in K} \left\{ \mathbb{Z}_x(s) - a s\right\} \leq x \right) = \pb \left( L_x \leq a \right).$
 \end{proof}
 
@@ -1398,6 +1398,25 @@ Then we have, using the triangle inequality for integrals:
 Finally, $(2)$ is continuous because $\frac{\ind_{[z+\eta,\infty)} (x)}{\sqrt{x-z}} = \frac{\ind_{[\eta,\infty)} (x-z)}{\sqrt{x-z}}$ is uniformly continuous on $[\eta, \infty)$. The Weierstrass M-test together with the uniform limit theorem yield continuity of $g$.
 \end{proof}
 
+\hypertarget{proof of continuity argmax holder}{\begin{lemma}\label{lem: continuity argmax holder}}%
+For every $a \in \mathbb{R}$, $\pb\bigl(\hat{s}(a)=0\bigr)=0$, where
+$\hat{s}(a):=\underset{t\in I_x}{\argmax}\bigl\{tX-\frac{\pi K_x}{2m_0}|t|^{1+\gamma_x}-at\bigr\}$
+and $X\sim N\bigl(0,\,g(x)/(2\gamma_x)\bigr)$, $x>0$.
+\end{lemma}
+
+\begin{proof}
+Set $c:=X-a$ and $\varphi(s):=cs-\frac{\pi K_x}{2m_0}|s|^{1+\gamma_x}$.
+Since $\varphi$ is strictly concave on each half-line and $\varphi(s)\to-\infty$
+as $|s|\to\infty$, the unique maximiser is
+\[
+  \hat{s}(a)=\operatorname{sign}(c)\Bigl(\frac{2m_0|c|}{\pi K_x(1+\gamma_x)}\Bigr)^{1/\gamma_x},
+\]
+a strictly increasing function of $c=X-a\sim N(-a,\,g(x)/(2\gamma_x))$.
+Since this normal has no atoms, neither does the law of $\hat{s}(a)$; in
+particular $\pb(\hat{s}(a)=0)=0$.  The cdf of the limit is continuous, with
+explicit form $\pb(\hat{s}(a)\leq x)=\pb\bigl(c\leq\frac{\pi K_x}{2m_0}(1+\gamma_x)\operatorname{sign}(x)|x|^{\gamma_x}\bigr)$.
+\end{proof}
+
 \begin{proof}[\hypertarget{proof of lemma weak conv}{\textbf{Proof of Lemma}} \ref{lemma: conv weak argmax}]
 Because
 \begin{align*}
@@ -1470,6 +1489,96 @@ The claim is a consequence of $1 - F(x) = V(x)/V(0)$ and by analogy, we construc
         &= \pb  \left( L_x \leq a, L_0 \leq b \right),
 \end{align*}
 where in the last step we used the switch relation. Using again Slutsky's Lemma with the above convergence and the asymptotic independence of $\hat{V}_n(x)$ and $\hat{V}_n(0)$ (which follows from the fact that $K_x \cap K_0 = \emptyset$), we get claim. 
+\end{proof}
+
+\hypertarget{proof of continuity hat s}{\begin{lemma}\label{lem: lil continuity}}%
+$x$ is a continuity point of the distribution of
+$\hat{s}(a):=\argmax_{s\in K_x}\{\mathbb{Z}_x(s)-as\}$, i.e.\
+\[
+  \pb\bigl(\hat{s}(a)=x\bigr)=0.
+\]
+\end{lemma}
+
+\begin{proof}
+It suffices to prove
+\begin{equation}\label{eq: sup positive continuity}
+  \sup_{s>x}\bigl\{\mathbb{Z}_x(s)-a(s-x)\bigr\}>0\quad\text{a.s.},
+\end{equation}
+since $\mathbb{Z}_x(x)=0$ and the sup over $s<x$ is handled symmetrically.
+
+Set $\psi_s(z):=2\sqrt{(z-x)_+}-2\sqrt{(z-s)_+}$ so that $\mathbb{Z}_x(s)=\mathbb{G}\psi_s$
+where $\mathbb{G}$ is the $G$-Brownian bridge.  Define
+\[
+  \sigma(s):=\int_s^\infty\frac{dG(z)}{z-x},\qquad s>x,
+\]
+which decreases continuously from $+\infty$ (as $s\downarrow x$) to $0$ (as
+$s\to\infty$); write $s_K:=\sigma^{-1}(K)$ for $K>0$. Under the standing assumptions, we prove
+\[
+  \limsup_{K\to\infty}\frac{\mathbb{G}\psi_{s_K}}{(s_K-x)\sqrt{2K\log\log K}}=1
+  \quad\text{a.s.}
+\]
+Write $f(z):=\dfrac{1}{\sqrt{z-x}}\,\ind_{z>x}$ and decompose
+\[
+  \psi_s(z)=(s-x)\,f(z)\,\ind_{[s,\infty)}(z)+r_s(z),
+\]
+where
+\[
+  r_s(z):=
+  \begin{cases}
+    0 & z<x,\\
+    2\sqrt{z-x} & x<z<s,\\[2pt]
+    \dfrac{s-x}{\sqrt{z-x}}\,\phi\!\Bigl(\dfrac{z-s}{z-x}\Bigr) & z>s,
+  \end{cases}
+  \qquad \phi(t):=\frac{1-\sqrt{t}}{1+\sqrt{t}}.
+\]
+Represent $\mathbb{G}$ via the $G$-Brownian motion $\mathbb{W}$: $\mathbb{G} h=\mathbb{W} h-(\mathbb{W} \mathbf{1})\int h\,dG$.
+Then
+\begin{equation}\label{eq: decomp continuity}
+  \mathbb{G}\psi_s
+  =(s-x)\,\mathbb{W}\bigl(f\ind_{[s,\infty)}\bigr)
+  -(s-x)\,(\mathbb{W} \mathbf{1})\int_{[s,\infty)}f\,dG
+  +\mathbb{G} r_s.
+\end{equation}
+
+\textit{Leading term.}  Since $\mathbb{W}(f\ind_{[\sigma^{-1}(\cdot),\infty)})$
+is a standard Brownian motion in the parameter (variance $=\sigma(s)$),
+the LIL gives
+\[
+  \limsup_{K\to\infty}\frac{\mathbb{W}(f\ind_{[s_K,\infty)})}{\sqrt{2K\log\log K}}=1
+  \quad\text{a.s.}
+\]
+
+\textit{Second term.} $\mathbb{W}\mathbf{1}=O(1)$ a.s.\ and
+$\int_{[s,\infty)}f\,dG\le\int f\,dG<\infty$, so the second term in
+\eqref{eq: decomp continuity} is $O(s_K-x)=o\bigl((s_K-x)\sqrt{2K\log\log K}\bigr)$.
+
+\textit{Remainder.}  Since $1-t\lesssim\phi(t)\lesssim 1-t$ for $0\le t\le1$,
+\begin{align*}
+  \int_x^s r_s^2\,dG&\lesssim\|g\|_\infty\int_x^s(z-x)\,dz\lesssim(s-x)^2,\\
+  \int_s^\infty r_s^2\,dG
+  &\lesssim(s-x)^2\int_s^\infty\frac{(s-x)^2}{(z-x)^3}\,dG(z)\lesssim(s-x)^2.
+\end{align*}
+Hence $\mathrm{Var}(\mathbb{G} r_{s_K})\le c(s_K-x)^2$, and for every $\varepsilon>0$,
+\[
+  \sum_{K=1}^\infty\pb\!\left(
+    \frac{|\mathbb{G} r_{s_K}|}{(s_K-x)\sqrt{2K\log\log K}}\ge\varepsilon
+  \right)
+  \le\sum_{K=1}^\infty 2\exp\!\Bigl(-\tfrac{\varepsilon^2}{c^2}K\log\log K\Bigr)
+  <\infty.
+\]
+Borel--Cantelli gives
+$|\mathbb{G} r_{s_K}|=o\bigl((s_K-x)\sqrt{2K\log\log K}\bigr)$ a.s.
+
+Combining all three parts yields the lemma, since
+\[
+  \limsup_{K\to\infty}
+  \frac{\mathbb{G}\psi_{s_K}-a(s_K-x)}{(s_K-x)\sqrt{2K\log\log K}}=1>0
+  \quad\text{a.s.},
+\]
+so $\mathbb{G}\psi_{s_K}-a(s_K-x)>0$ for all sufficiently large $K$, and hence
+\[
+  \sup_{s>x}\bigl\{\mathbb{Z}_x(s)-a(s-x)\bigr\}>0\quad\text{a.s.}\qquad\square
+\]
 \end{proof}
 
 \subsection{Proofs complemental statements for the LAN expansion. }\label{appendix: statements LAN}
