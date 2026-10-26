@@ -52,7 +52,7 @@ Note that $x \mapsto U(x) = \int_{0}^x V(y) \, dy$ is a concave and increasing f
 \begin{align}\label{eq: isotonic estimator of F}
 \hat{F}^*_n(x) := 1 - \hat{V}_n(x)/\hat{V}_n(0).
 \end{align}
-This estimator has the important properties of being monotone (see Figure \ref{fig: estimator performance}), right-continuous and does not depend on tuning parameters, unlike other estimators in the literature (cf.\ \cite{10}). 
+This estimator has the important properties of being monotone (see Figure \ref{fig: estimator performance}), right-continuous and, away from the boundary point $0$, does not depend on tuning parameters, unlike other estimators in the literature (cf.\ \cite{10}). Since $0$ is a boundary point, in the asymptotic results below $\hat{V}_n(0)$ in \eqref{eq: isotonic estimator of F} is replaced by $\hat{V}_n(x_n)$ for a sequence $x_n \downarrow 0$ (see Theorem \ref{thm: normality Holder}) and, if $F^*$ is constant around $0$, by $\hat{V}_n(y)$ for a fixed $y$ in the interior of $K_0$ (see Theorem \ref{thm: main thm iso 2}).
 
 \begin{figure}[H]
   \vspace{-0.2cm}
@@ -69,7 +69,7 @@ The work in this section is closely related to \cite{10} and \cite{1}. In \cite{
 
 Moreover, the authors of \cite{10} propose an estimator based on Kernel Density Estimation (KDE) that achieves the variance \(\sigma^2(F^*)/(2\gamma)\) and which is, to the best of our knowledge, the only other efficient estimator in the literature. However, the estimator they propose depends directly on the degree $\gamma$ of smoothness, which should be guesstimated before using the estimator, making it non-adaptive. Furthermore, under local conditions at $x$ and $0$ (cf. (24) and (25)), they derive an asymptotic minimax lower bound assuming $F$ is in the Hölder class $\Lambda_\gamma$, for $\gamma> \frac{1}{2}$. 
 
-This section has two main contributions. On the one hand, we show that the IIE \(\hat{F}^*_n\) automatically adapts to the \textit{local} smoothness of \(F^*\), without requiring \(F^*\) to belong to a \textit{global} Hölder class. It suffices to consider the \textit{local} smoothness at points \(x\) and \(0\), measured by constants \(\gamma_x > \frac{1}{2}\) and \(\gamma_0 > \frac{1}{2}\) (see conditions \eqref{eq: condition roughness intro} and \eqref{eq: condition roughness infimum}). These can be interpreted as the tight degree of Hölder smoothness at the points $x$ and $0$. For $F^*$ with density $f$ (i.e.\ differentiable at $x$ and $0$) we retrieve the $\gamma_x = \gamma_0 = 1$ that explains the behavior observed in \cite{1}. On the other hand, we prove a lower bound on the minimax risk for any estimator sequence. The minimax theorem holds as well under local conditions of smoothness of $F^*$ around $x$ and $0$. If all conditions are met, this shows that the isotonic estimator is asymptotically efficient. No other estimator in the literature simultaneously has these properties. Consequently, the IIE emerges as the unequivocal choice, surpassing alternative estimators previously proposed in Wicksell's problem. 
+This section has two main contributions. On the one hand, we show that the IIE \(\hat{F}^*_n\) automatically adapts to the \textit{local} smoothness of \(F^*\) at \(x\), without requiring \(F^*\) to belong to a \textit{global} Hölder class. It suffices to consider the \textit{local} smoothness at points \(x\) and \(0\), measured by constants \(\gamma_x > \frac{1}{2}\) and \(\gamma_0 > \frac{1}{2}\) (see conditions \eqref{eq: condition roughness intro} and \eqref{eq: condition roughness infimum}). These can be interpreted as the tight degree of Hölder smoothness at the points $x$ and $0$. For $F^*$ with density $f$ (i.e.\ differentiable at $x$ and $0$) we retrieve the $\gamma_x = \gamma_0 = 1$ that explains the behavior observed in \cite{1}. On the other hand, we prove a lower bound on the minimax risk for any estimator sequence. The minimax theorem holds as well under local conditions of smoothness of $F^*$ around $x$ and $0$. If all conditions are met, this shows that the isotonic estimator is asymptotically efficient. No other estimator in the literature simultaneously has these properties. Consequently, the IIE emerges as the unequivocal choice, surpassing alternative estimators previously proposed in Wicksell's problem. 
 
 First, we prove that the IIE is asymptotically normal and the smoother the cdf $F^*$ is at $x$ and $0$, the smaller the asymptotic variance automatically attained by the IIE (Theorem  \ref{thm: main thm iso 1}). Here, the smoothness of $F^*$ at a point $p$ is measured by considering constants $K_p >0$ and $\gamma_p > \frac{1}{2}$ such that:
 \begin{align*}
@@ -86,15 +86,15 @@ Let $F^*$ be the distribution function of the squared sphere radii and $g$ the c
     \begin{align*}
     & \sqrt{\frac{n}{\log n}}\left( \hat{F}^*_n(x)-F^*(x)\right) \rightsquigarrow N\left(0, \frac{4m^2_0}{\pi^2} \left(\frac{g(x)}{2\gamma_x} + (1-F^*(x))^2 \frac{g(0)}{2\gamma_0} \right)\right).
     \end{align*} 
-    \item If $F^*$ is constant around $x$ and $0$, with $K_x$ and $K_0$ the biggest compact intervals in $[0,\infty)$ that contain $x$ and $0$, respectively, so that $F^*$ is constant, on $K_x$ and $K_0$, with $K_x \cap K_0 = \emptyset$, then, as $n \rightarrow \infty$: \label{thm: main thm iso 2}
+    \item If $F^*$ is constant around $x$ and $0$, with $K_x$ and $K_0$ the biggest compact intervals in $[0,\infty)$ that contain $x$ and $0$, respectively, so that $F^*$ is constant, on $K_x$ and $K_0$, with $K_x \cap K_0 = \emptyset$ and $x$ in the interior of $K_x$, then, for $\hat{F}^*_n(x) := 1 - \hat{V}_n(x)/\hat{V}_n(y)$ with $y$ a fixed point in the interior of $K_0$, as $n \rightarrow \infty$: \label{thm: main thm iso 2}
     \begin{align*}
         \sqrt{n} \left( \hat{F}^*_n(x) - F^*(x) \right) \rightsquigarrow \frac{2m_0}{\pi} \Big(L_x+ (1-F^*(x))L_0 \Big), 
     \end{align*}
     where, for any $a,b \in \mathbb{R}$, the joint distribution of $L_x$ and $L_0$ is given by:
     \begin{align*}
-        \pb \left( L_x \leq a, L_0 \leq b \right) = \pb \, \bigg( \argmax_{s \in K_x} \left\{ \mathbb{Z}_x(s) - a s\right\} \leq x, \argmax_{s \in K_0} \left\{ \mathbb{Z}_0(s) - b s\right\} \leq 0 \bigg). 
+        \pb \left( L_x \leq a, L_0 \leq b \right) = \pb \, \bigg( \argmax_{s \in K_x} \left\{ \mathbb{Z}_x(s) - a s\right\} \leq x, \argmax_{s \in K_0} \left\{ \mathbb{Z}_y(s) - b s\right\} \leq y \bigg).
     \end{align*}
-    Here $\mathbb{Z}_p(s) = \mathbb{Z}(s) - \mathbb{Z}(p),$ for $s \geq 0$ and $p \in \{0,x\}$. $\mathbb{Z}$ is a continuous centered Gaussian Process with covariance structure given by:
+    Here $\mathbb{Z}_p(s) = \mathbb{Z}(s) - \mathbb{Z}(p),$ for $s \geq 0$ and $p \in \{x,y\}$. $\mathbb{Z}$ is a continuous centered Gaussian Process with covariance structure given by:
     \begin{align}\label{eq: covariance gauss process}
         \mathrm{Cov} \left( \mathbb{Z}(t),\mathbb{Z}(s) \right) = \mathrm{Cov} \Big( 2 \big( \sqrt{\smash[b]{Z}} - \sqrt{\smash[b]{(Z_t)_{+}}} \big), 2 \big( \sqrt{\smash[b]{Z}} - \sqrt{\smash[b]{(Z_s)_{+}}} \big) \Big),
     \end{align}
@@ -111,7 +111,7 @@ The second main result of this section consists of showing that the IIE is asymp
     \end{align}
 where $L$ possesses the normal distribution in Theorem \ref{thm: main thm iso 1}. $G_{F^\prime}$ is the probability measure associated to the density $g$ in \eqref{eq: density of the observations} with $F^*$ replaced by $F^\prime$.
 \end{theorem}
-Combining the above results shows that the IIE is an easy-to-compute, adaptive, and efficient estimator for $F^*$.
+Combining the above results shows that the IIE is an easy-to-compute, adaptive (at $x$), and efficient estimator for $F^*$.
 
 \subsection{Asymptotics of the Isotonic Inverse Estimator}
 
@@ -175,8 +175,9 @@ This demonstrates that the required condition for Theorem \ref{thm: normality Ho
 \begin{theorem}\label{thm: normality Holder}
 Let $x \geq 0$, suppose that\eqref{eq: condition roughness intro}, \eqref{eq: finite first moment chapter2}, and\eqref{eq: condition finite g at x chapter2} hold true and $g(x)$ is given by \eqref{eq: density of the observations}. Then:
 \begin{align*}
-    \sqrt{\frac{n}{\log n}}\left(\hat{V}_n(x)-V(x)\right) \rightsquigarrow N\left(0, \frac{1}{2 \gamma_x} g(x)\right) \quad \text { as } n \rightarrow \infty \text {.}
+    \sqrt{\frac{n}{\log n}}\left(\hat{V}_n(x)-V(x)\right) \rightsquigarrow N\left(0, \frac{1}{2 \gamma_x} g(x)\right) \quad \text { as } n \rightarrow \infty \text {,}
 \end{align*}
+where, for $x=0$, we define $\hat{V}_n(0) := \hat{V}_n(x_n)$ for a sequence $x_n = o\big((n/\log n)^{-1/(2\gamma_0)}\big)$ such that $\log(1/x_n) \sim \frac{1}{2\gamma_0}\log n$ (e.g.\ $x_n = (n/\log n)^{-1/(2\gamma_0)}/\log n$).
 \end{theorem}
 \begin{proof}
 We generalize the proof of \cite{1}, for $\gamma_x\neq 1$.
@@ -278,8 +279,35 @@ But it is immediate to see that, almost surely (Lemma~\ref{lem: continuity argma
 Hence, using the two relations above:
 \begin{align*}
 &\pb\left\{\delta_n^{-1}\left(\hat{V}_n(x)-V(x)\right) \leq a\right\}=\pb\left\{(\delta^*_n)^{-1}\left(T_n\left(a_0+\delta_n a\right)-x\right) \leq 0\right\} \stackrel{n \rightarrow \infty}{\longrightarrow} \\
-& \quad \stackrel{\eqref{eq: convergence argmax}}{\longrightarrow} \pb \left\{ \underset{t \in I_x}{\arg \max }\left\{t X-\frac{|t|^{\gamma_x+ 1} \pi}{2 m_0} K_x  -a t \right\} \leq 0 \right\} \stackrel{\eqref{eq: iff relation argmax} }{=} \pb\{ X \leq a\}.
+& \quad \stackrel{\eqref{eq: convergence argmax}}{\longrightarrow} \pb \left\{ \underset{t \in I_x}{\arg \max }\left\{t X-\frac{|t|^{\gamma_x+ 1} \pi}{2 m_0} K_x  -a t \right\} \leq 0 \right\} \stackrel{\eqref{eq: iff relation argmax} }{=} \pb\{ X \leq a\},
 \end{align*}
+where the convergence holds because, for $x>0$, $0$ is a continuity point of the limit distribution in \eqref{eq: convergence argmax} (Lemma~\ref{lem: continuity argmax holder}). This proves the theorem for $x>0$.
+
+For $x=0$ since $I_0=[0,\infty)$, the limit in \eqref{eq: convergence argmax} has an atom at $0$ of mass $\pb\{X \leq a\}$. This is why $\hat{V}_n$ is evaluated at $x_n$. Write $\hat{s}_n := (\delta^*_n)^{-1} T_n(a_0+\delta_n a)$ and $\kappa_n := x_n/\delta^*_n$, so that $\kappa_n \rightarrow 0$ and $\log(1/\kappa_n) = o(\log n)$ by the assumptions on $x_n$. By the switch relation \eqref{eq: switch relation}:
+\begin{align*}
+\pb\left\{\delta_n^{-1}\left(\hat{V}_n(0)-V(0)\right) \leq a\right\} = \pb\left\{\hat{V}_n(x_n) \leq a_0+\delta_n a\right\} = \pb\left\{T_n(a_0+\delta_n a) \leq x_n\right\} = \pb\left\{\hat{s}_n \leq \kappa_n\right\},
+\end{align*}
+so it suffices to show that $\pb\{\hat{s}_n \leq \kappa_n\} \rightarrow \pb\{X \leq a\}$. At $x=0$ the limit in \eqref{eq: convergence argmax} is, with $c := \pi K_0/(2m_0)$:
+\begin{align*}
+\hat{s} := \underset{t \geq 0}{\arg\max}\left\{tX - c\, t^{\gamma_0+1} - at\right\} = \left(\frac{(X-a)_+}{c(1+\gamma_0)}\right)^{1/\gamma_0}.
+\end{align*}
+Fix $\varepsilon>0$. For $n$ large we have $\kappa_n \leq \varepsilon$ and, since $[0,\varepsilon]$ is closed in $I_0$, the portmanteau lemma gives:
+\begin{align*}
+\limsup_{n \rightarrow \infty} \pb\left\{\hat{s}_n \leq \kappa_n\right\} \leq \limsup_{n \rightarrow \infty} \pb\left\{\hat{s}_n \leq \varepsilon\right\} \leq \pb\left\{\hat{s} \leq \varepsilon\right\} = \pb\left\{X \leq a + c(1+\gamma_0)\varepsilon^{\gamma_0}\right\},
+\end{align*}
+which tends to $\pb\{X \leq a\}$ as $\varepsilon \rightarrow 0$. For the lower bound fix $M \geq 1$ and $\eta>0$. Since $F^*$ is nondecreasing, the term in \eqref{eq: rewrite Z tilde} is at most $-at$, that is, $\tilde{Z}_n(t) \leq Z_n(t)$ for $t \geq 0$. We claim that:
+\begin{align*}
+\left\{Z_n(1) \leq a-\eta\right\} \cap \left\{\sup_{\kappa_n < t \leq M}\left|\frac{Z_n(t)}{t}-Z_n(1)\right| \leq \eta\right\} \cap \left\{\hat{s}_n \leq M\right\} \subseteq \left\{\hat{s}_n \leq \kappa_n\right\}.
+\end{align*}
+Indeed, on the event on the left-hand side we have $Z_n(t)/t \leq a$ for all $t \in (\kappa_n, M]$, and therefore
+\begin{align*}
+\tilde{Z}_n(t) - at \leq Z_n(t) - at \leq 0 = \tilde{Z}_n(0) \quad \text{for all } t \in (\kappa_n, M].
+\end{align*}
+So no point of $(\kappa_n, M]$ can be the smallest maximizer of $\tilde{Z}_n(t)-at$ (otherwise $0$ would be a maximizer smaller than it), and since $\hat{s}_n \leq M$ we get $\hat{s}_n \leq \kappa_n$. Hence:
+\begin{align*}
+\pb\left\{\hat{s}_n \leq \kappa_n\right\} \geq \pb\left\{Z_n(1) \leq a-\eta\right\} - \pb\left\{\sup_{\kappa_n < t \leq M}\left|\frac{Z_n(t)}{t}-Z_n(1)\right| > \eta\right\} - \pb\left\{\hat{s}_n > M\right\}.
+\end{align*}
+By \eqref{eq: marginal convergence chapter2} the first term converges to $\pb\{X \leq a-\eta\}$, and the second term converges to zero by Lemma~\ref{lemma: uniform collapse} (see Appendix \ref{sec: appendix chapter2}). By \eqref{eq: stochastic boundedness seq argmax} with $x=0$, $\hat{s}_n = O_p(1)$, so the last term is arbitrarily small for $M$ large, uniformly in $n$. Letting $n \rightarrow \infty$, then $M \rightarrow \infty$ and $\eta \rightarrow 0$, we obtain $\liminf_{n} \pb\{\hat{s}_n \leq \kappa_n\} \geq \pb\{X \leq a\}$, which concludes the proof for $x=0$.
 \end{proof}
 
 \begin{example}\label{example: holder + local behavior}
@@ -301,7 +329,7 @@ Using the Dominated Convergence Theorem in combination with the assumption of th
 Also for the case of Theorem \ref{thm: main thm iso 2}, we look first at the behavior of $\hat{V}_n(x)$. 
 
 \begin{theorem}\label{thm: distrib flat F at x}
-    Let $x \geq 0$, and $K_x :=[\ubar{x},\bar{x}] \subset [0,\infty)$ the biggest interval that contains $x$ on which $F^*$ is constant. Assume that \eqref{eq: finite first moment chapter2} holds true. Then:
+    Let $x > 0$, and $K_x :=[\ubar{x},\bar{x}] \subset [0,\infty)$ the biggest interval that contains $x$ on which $F^*$ is constant, with $\ubar{x} < x < \bar{x}$. Assume that \eqref{eq: finite first moment chapter2} holds true. Then:
     \begin{align*}
         \sqrt{n} \left( \hat{V}_n(x) - V(x) \right) \rightsquigarrow L_x,
     \end{align*}
@@ -1417,6 +1445,50 @@ particular $\pb(\hat{s}(a)=0)=0$.  The cdf of the limit is continuous, with
 explicit form $\pb(\hat{s}(a)\leq x)=\pb\bigl(c\leq\frac{\pi K_x}{2m_0}(1+\gamma_x)\operatorname{sign}(x)|x|^{\gamma_x}\bigr)$.
 \end{proof}
 
+\begin{lemma}\label{lemma: uniform collapse}
+Let $x=0$ and assume the conditions of Theorem \ref{thm: normality Holder}. Let $M \geq 1$ and let $\kappa_n \rightarrow 0$ with $\log(1/\kappa_n) = o(\log n)$. Then, as $n \rightarrow \infty$:
+\begin{align*}
+\sup_{\kappa_n < t \leq M} \left|\frac{Z_n(t)}{t} - Z_n(1)\right| \rightarrow 0 \quad \text{in probability.}
+\end{align*}
+\end{lemma}
+\begin{proof}
+For $u>0$ and $z>0$ define:
+\begin{align*}
+k_u(z) := \frac{\sqrt{z}-\sqrt{z-u}\,\ind_{[u,\infty)}(z)}{u} = \begin{cases} \sqrt{z}/u, & \text{if } z \leq u, \\ \left(\sqrt{z}+\sqrt{z-u}\right)^{-1}, & \text{if } z > u. \end{cases}
+\end{align*}
+Taking $x=0$ in \eqref{eq: Z_n(1)} we have $Z_n(t)/t = 2\delta_n^{-1}\int k_{\delta^*_n t}(z)\, d(\mathbb{G}_n-G)(z)$, hence:
+\begin{align}\label{eq: uniform collapse empirical}
+\frac{Z_n(t)}{t} - Z_n(1) = 2\delta_n^{-1}\int \left\{k_{\delta^*_n t}(z) - k_{\delta^*_n}(z)\right\} d(\mathbb{G}_n-G)(z),
+\end{align}
+and the supremum in the statement is a supremum over the class $\mathscr{K}^M_n := \{k_{\delta^*_n t} - k_{\delta^*_n} : \kappa_n < t \leq M\}$. From the two expressions of $k_u$ and from $\sqrt{z}-\sqrt{z-u} = u/(\sqrt{z}+\sqrt{z-u})$ we get, for all $u,z>0$:
+\begin{enumerate}[label=(\alph*)]
+\item $0 \leq k_u(z) \leq z^{-1/2}$;
+\item if $u \leq z$, then $0 \leq k_u(z) - \frac{1}{2\sqrt{z}} = \frac{u}{2\sqrt{z}(\sqrt{z}+\sqrt{z-u})^2} \leq \frac{u}{2z^{3/2}}$;
+\item $u \mapsto k_u(z)$ is continuous, nondecreasing on $(0,z]$ and nonincreasing on $[z,\infty)$.
+\end{enumerate}
+We now show that the class $\mathscr{K}^M_n$ has envelope:
+\begin{align*}
+H_n(z) := \begin{cases} \sqrt{z}/(\kappa_n\delta^*_n), & \text{if } z \leq \kappa_n\delta^*_n, \\ z^{-1/2}, & \text{if } \kappa_n\delta^*_n < z \leq 2M\delta^*_n, \\ M\delta^*_n\, z^{-3/2}, & \text{if } z > 2M\delta^*_n. \end{cases}
+\end{align*}
+For $t \in (\kappa_n, M]$, both $u := \delta^*_n t$ and $v := \delta^*_n$ lie in $[\kappa_n\delta^*_n, M\delta^*_n]$. If $z \leq \kappa_n\delta^*_n$, then $z \leq u \wedge v$ and $k_u(z), k_v(z) \in [0, \sqrt{z}/(\kappa_n\delta^*_n)]$. If $\kappa_n\delta^*_n < z \leq 2M\delta^*_n$ we use (a). If $z > 2M\delta^*_n$, then $u,v \leq z$ and by (b) both $k_u(z)$ and $k_v(z)$ lie in $[\frac{1}{2\sqrt{z}}, \frac{1}{2\sqrt{z}} + \frac{M\delta^*_n}{2z^{3/2}}]$. In all cases $|k_u(z)-k_v(z)| \leq H_n(z)$.
+
+Note that $H_n^2(z) \leq 1/z$ for all $z>0$ and that $\int_0^\infty H_n^2(z)\,dz = \frac{1}{2} + \log\frac{2M}{\kappa_n} + \frac{1}{8}$. Therefore, for every $x>0$, splitting the integral at $x/2$:
+\begin{align*}
+\int_0^x \frac{H_n^2(z)}{\sqrt{x-z}}\,dz \leq \sqrt{\frac{2}{x}}\int_0^\infty H_n^2(z)\,dz + \frac{2}{x}\int_{x/2}^x \frac{dz}{\sqrt{x-z}} = \sqrt{\frac{2}{x}}\left(\frac{21}{8} + \log\frac{2M}{\kappa_n}\right).
+\end{align*}
+By \eqref{eq: density of the observations} and Fubini's theorem this yields:
+\begin{align}\label{eq: uniform collapse envelope}
+\int H_n^2(z)\,g(z)\,dz = \frac{1}{2m_0}\int_0^\infty \int_0^x \frac{H_n^2(z)}{\sqrt{x-z}}\,dz\,dF^*(x) \leq \sqrt{2}\left(\frac{21}{8} + \log\frac{2M}{\kappa_n}\right) g(0),
+\end{align}
+where $g(0)<\infty$ by \eqref{eq: condition finite g at x chapter2}.
+
+By (c), for fixed $(z,r)$ the set $\{u>0 : k_u(z) > r\}$ is an interval. Hence, given $m$ points $(z_1,r_1),\dots,(z_m,r_m)$, the subgraph of $k_u$ picks out those points whose interval contains $u$; the at most $2m$ endpoints of these intervals split $(0,\infty)$ into at most $4m+1$ pieces on each of which the picked out set is constant. Since $4m+1<2^m$ for $m \geq 5$, the class $\{k_u : u>0\}$ is VC, and so is $\mathscr{K}^M_n$, which is obtained by subtracting the fixed function $k_{\delta^*_n}$; its VC index does not depend on $n$, so the uniform entropy integral $J(1)$ is finite and does not depend on $n$ (as in the proof of Lemma \ref{lemma: conv weak argmax}). By the continuity in (c), the supremum over $\mathscr{K}^M_n$ equals the supremum over rational $t$. Therefore, using \eqref{eq: uniform collapse empirical}, maximal inequality 3.1 (ii) from \cite{12} and \eqref{eq: uniform collapse envelope}, and since $\delta_n^{-2} n^{-1} = (\log n)^{-1}$:
+\begin{align*}
+\ex \sup_{\kappa_n < t \leq M}\left|\frac{Z_n(t)}{t}-Z_n(1)\right|^2 \lesssim \frac{J(1)^2}{\log n}\int H_n^2(z)\,g(z)\,dz \lesssim J(1)^2 g(0)\, \frac{1+\log(1/\kappa_n)}{\log n} \rightarrow 0,
+\end{align*}
+because $\log(1/\kappa_n) = o(\log n)$. Markov's inequality concludes the proof.
+\end{proof}
+
 \begin{proof}[\hypertarget{proof of lemma weak conv}{\textbf{Proof of Lemma}} \ref{lemma: conv weak argmax}]
 Because
 \begin{align*}
@@ -1482,17 +1554,17 @@ where we used the asymptotic equicontinuity of the $Z_n$.
 \end{proof}
 
 \begin{proof}[\hypertarget{proof of main thm}{\textbf{Proof of Theorem}} \ref{thm: main thm iso}]
-The claim is a consequence of $1 - F(x) = V(x)/V(0)$ and by analogy, we construct the estimator using the adaptive isotonic estimator. Apply Slutsky's Lemma together with Theorem \ref{thm: normality Holder} (cf.\ Corollary 1 in \cite{1}) to get Theorem \ref{thm: main thm iso 1}. To prove Theorem \ref{thm: main thm iso 2}, it is possible to follow the same steps as in the proof of Theorem \ref{thm: distrib flat F at x} and show the joint convergence, for all $a,b \in \mathbb{R}$:
+The claim is a consequence of $1 - F(x) = V(x)/V(0)$ and by analogy, we construct the estimator using the adaptive isotonic estimator. Apply Slutsky's Lemma together with Theorem \ref{thm: normality Holder} (cf.\ Corollary 1 in \cite{1}) to get Theorem \ref{thm: main thm iso 1}. To prove Theorem \ref{thm: main thm iso 2}, note that $V(y)=V(0)$ since $F^*$ is constant on $K_0$; it is possible to follow the same steps as in the proof of Theorem \ref{thm: distrib flat F at x} and show the joint convergence, for all $a,b \in \mathbb{R}$:
 \begin{align*}
-        &\pb \bigg( \sqrt{n} \left(\hat{V}_n(x) - V(x) \right) \leq a, \sqrt{n} \left(\hat{V}_n(0) - V(0) \right) \leq b \bigg) \rightarrow\\
-        &\rightarrow \pb \bigg( \argmax_{s \in K_x} \left\{ \mathbb{Z}_x(s) - a s\right\} \leq x, \argmax_{s \in K_0} \left\{ \mathbb{Z}_0(s) - b s\right\} \leq 0 \bigg) \\ 
+        &\pb \bigg( \sqrt{n} \left(\hat{V}_n(x) - V(x) \right) \leq a, \sqrt{n} \left(\hat{V}_n(y) - V(0) \right) \leq b \bigg) \rightarrow\\
+        &\rightarrow \pb \bigg( \argmax_{s \in K_x} \left\{ \mathbb{Z}_x(s) - a s\right\} \leq x, \argmax_{s \in K_0} \left\{ \mathbb{Z}_y(s) - b s\right\} \leq y \bigg) \\
         &= \pb  \left( L_x \leq a, L_0 \leq b \right),
 \end{align*}
-where in the last step we used the switch relation. Using again Slutsky's Lemma with the above convergence and the asymptotic independence of $\hat{V}_n(x)$ and $\hat{V}_n(0)$ (which follows from the fact that $K_x \cap K_0 = \emptyset$), we get claim. 
+where in the last step we used the switch relation. Using again Slutsky's Lemma with the above convergence and the asymptotic independence of $\hat{V}_n(x)$ and $\hat{V}_n(y)$ (which follows from the fact that $K_x \cap K_0 = \emptyset$), we get claim.
 \end{proof}
 
 \hypertarget{proof of continuity hat s}{\begin{lemma}\label{lem: lil continuity}}%
-$x$ is a continuity point of the distribution of
+Let $\ubar{x} < x < \bar{x}$. Then $x$ is a continuity point of the distribution of
 $\hat{s}(a):=\argmax_{s\in K_x}\{\mathbb{Z}_x(s)-as\}$, i.e.\
 \[
   \pb\bigl(\hat{s}(a)=x\bigr)=0.

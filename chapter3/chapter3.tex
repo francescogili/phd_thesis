@@ -147,7 +147,7 @@ $, equation (5) from \cite{27} is equivalent to \eqref{eq: condition roughness} 
 From a physical point of view, the role of $\gamma$ is also interpretable. In a globular cluster, different regions (e.g., dense core vs. sparse halo) may correspond to different levels of smoothness of $F_0$, and the semiparametric theory reflects this. The local adaptivity of the Bayesian estimator is encoded in the limiting variance of the Bernstein-von Mises mirrors this phenomenon. If there is a sharp increase in the concentration of stars with size close to $x$ (i.e., $\gamma$ close to $1/2$), then the 2D observations are much noisier. This makes the estimation more difficult and results in a higher asymptotic variance. 
 
 \begin{theorem}[BvM for IIP]\label{thm: BvM}
-	Let $x \geq 0$, suppose that \eqref{eq: condition finite g at x chapter3}, \eqref{eq: finite first moment chapter3}, and \eqref{eq: condition roughness} hold true. Moreover let $G \sim \operatorname{DP}(\alpha)$, where the base measure $\alpha$ has bounded density. Then, in probability under $G_0$: 
+	Let $x > 0$, suppose that \eqref{eq: condition finite g at x chapter3}, \eqref{eq: finite first moment chapter3}, and \eqref{eq: condition roughness} hold true. Moreover let $G \sim \operatorname{DP}(\alpha)$, where the base measure $\alpha$ has bounded density. Then, in probability under $G_0$: 
 	\begin{align}\label{eq: claim}
 		\frac{\sqrt{n}}{\sqrt{\log n}}\left(\hat{V}_{\scriptscriptstyle{G}}(x)-\hat{V}_n(x)\right) \mid Z_1, \ldots, Z_n \rightsquigarrow N\left(0, \frac{g_0(x)}{2 \gamma}\right).
 	\end{align}
